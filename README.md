@@ -3,7 +3,7 @@ A list of datasets of SpaceX launches, rockets, capsules, satellites and more.
 
 ### ToDo
 
-- [x] Add json files
+- [ ] Add json files
 - [ ] Write Python and Javascript interface
 - [ ] Update datasets constantly
 - [ ] Hope SpaceX reaches Mars
