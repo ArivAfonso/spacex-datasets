@@ -1,0 +1,149 @@
+[
+  {
+    "serial": "C101",
+    "status": "retired",
+    "reuse_count": 0,
+    "water_landings": 1,
+    "land_landings": 0
+  },
+  {
+    "serial": "C102",
+    "status": "retired",
+    "reuse_count": 0,
+    "water_landings": 1,
+    "land_landings": 0
+  },
+  {
+    "serial": "C103",
+    "status": "unknown",
+    "reuse_count": 0,
+    "water_landings": 1,
+    "land_landings": 0
+  },
+  {
+    "serial": "C104",
+    "status": "unknown",
+    "reuse_count": 0,
+    "water_landings": 1,
+    "land_landings": 0
+  },
+  {
+    "serial": "C105",
+    "status": "unknown",
+    "reuse_count": 0,
+    "water_landings": 1,
+    "land_landings": 0
+  },
+  {
+    "serial": "C106",
+    "status": "active",
+    "reuse_count": 2,
+    "water_landings": 3,
+    "land_landings": 0
+  },
+  {
+    "serial": "C107",
+    "status": "unknown",
+    "reuse_count": 0,
+    "water_landings": 1,
+    "land_landings": 0
+  },
+  {
+    "serial": "C108",
+    "status": "active",
+    "reuse_count": 2,
+    "water_landings": 3,
+    "land_landings": 0
+  },
+  {
+    "serial": "C109",
+    "status": "destroyed",
+    "reuse_count": 0,
+    "water_landings": 1,
+    "land_landings": 0
+  },
+  {
+    "serial": "C110",
+    "status": "active",
+    "reuse_count": 1,
+    "water_landings": 2,
+    "land_landings": 0
+  },
+  {
+    "serial": "C111",
+    "status": "active",
+    "reuse_count": 1,
+    "water_landings": 2,
+    "land_landings": 0
+  },
+  {
+    "serial": "C112",
+    "status": "active",
+    "reuse_count": 2,
+    "water_landings": 3,
+    "land_landings": 0
+  },
+  {
+    "serial": "C113",
+    "status": "active",
+    "reuse_count": 1,
+    "water_landings": 2,
+    "land_landings": 0
+  },
+  {
+    "serial": "C201",
+    "status": "active",
+    "reuse_count": 0,
+    "water_landings": 1,
+    "land_landings": 0
+  },
+  {
+    "serial": "C205",
+    "status": "active",
+    "reuse_count": 0,
+    "water_landings": 1,
+    "land_landings": 0
+  },
+  {
+    "serial": "C202",
+    "status": "active",
+    "reuse_count": 0,
+    "water_landings": 0,
+    "land_landings": 0
+  },
+  {
+    "serial": "C203",
+    "status": "active",
+    "reuse_count": 0,
+    "water_landings": 0,
+    "land_landings": 0
+  },
+  {
+    "serial": "C204",
+    "status": "active",
+    "reuse_count": 0,
+    "water_landings": 0,
+    "land_landings": 0
+  },
+  {
+    "serial": "C206",
+    "status": "active",
+    "reuse_count": 1,
+    "water_landings": 2,
+    "land_landings": 0
+  },
+  {
+    "serial": "C207",
+    "status": "active",
+    "reuse_count": 1,
+    "water_landings": 2,
+    "land_landings": 2
+  },
+  {
+    "serial": "C208",
+    "status": "active",
+    "reuse_count": 2,
+    "water_landings": 2,
+    "land_landings": 0
+  }
+]
