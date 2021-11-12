@@ -2,7 +2,7 @@
   {
     "name": "Falcon 1",
     "type": "rocket",
-    "active": "FALSE",
+    "active": false,
     "country": "Republic of the Marshall Islands",
     "company": "SpaceX",
     "height_mt": 22.25,
@@ -15,12 +15,12 @@
     "boosters": 0,
     "cost_per_launch": 6700000,
     "landing_legs": 0,
-    "material_of _landing_legs": "No Landing Legs"
+    "material_of _landing_legs": null
   },
   {
     "name": "Falcon 9",
     "type": "rocket",
-    "active": "TRUE",
+    "active": true,
     "country": "United States",
     "company": "SpaceX",
     "height_mt": 70,
@@ -38,7 +38,7 @@
   {
     "name": "Falcon Heavy",
     "type": "rocket",
-    "active": "TRUE",
+    "active": true,
     "country": "United States",
     "company": "SpaceX",
     "height_mt": 70,
@@ -56,7 +56,7 @@
   {
     "name": "Starship",
     "type": "rocket",
-    "active": "FALSE",
+    "active": false,
     "country": "United States",
     "company": "SpaceX",
     "height_mt": 118,

@@ -1,22 +1,23 @@
-serial,status,reuse_count,water_landings,land_landings
-C101,retired,0,1,0
-C102,retired,0,1,0
-C103,unknown,0,1,0
-C104,unknown,0,1,0
-C105,unknown,0,1,0
-C106,active,2,3,0
-C107,unknown,0,1,0
-C108,active,2,3,0
-C109,destroyed,0,1,0
-C110,active,1,2,0
-C111,active,1,2,0
-C112,active,2,3,0
-C113,active,1,2,0
-C201,active,0,1,0
-C205,active,0,1,0
-C202,active,0,0,0
-C203,active,0,0,0
-C204,active,0,0,0
-C206,active,1,2,0
-C207,active,1,2,2
-C208,active,2,2,0
+serial,status,reuse_count,water_landings,land_landings,type,original_launch
+C101,retired,0,1,0,Dragon 1.0,08-12-2010
+C102,retired,0,1,0,Dragon 1.0,22-05-2012
+C103,unknown,0,1,0,Dragon 1.0,08-10-2012
+C104,unknown,0,1,0,Dragon 1.0,01-03-2013
+C105,unknown,0,1,0,Dragon 1.1,18-04-2014
+C106,active,2,3,0,Dragon 1.1,21-09-2014
+C107,unknown,0,1,0,Dragon 1.1,10-01-2015
+C108,active,2,3,0,Dragon 1.1,14-04-2015
+C109,destroyed,0,1,0,Dragon 1.1,28-06-2015
+C110,active,1,2,0,Dragon 1.1,08-04-2016
+C111,active,1,2,0,Dragon 1.1,18-07-2016
+C112,active,2,3,0,Dragon 1.1,19-02-2017
+C113,active,1,2,0,Dragon 1.1,14-08-2017
+C201,retired,0,1,0,Dragon 2.0,02-03-2019
+C202,retired,0,1,0,Dragon 2.0,null
+C203,active,0,0,0,Dragon 2.0,null
+C204,destroyed,0,1,0,Dragon 2.0,02-03-2019
+C205,active,0,0,0,Dragon 2.0,19-01-2020
+C206,active,1,2,0,Dragon 2.0,30-05-2020
+C207,active,1,2,2,Dragon 2.0,16-11-2020
+C208,active,2,2,0,Dragon 2.0,06-12-2020
+C209,active,0,1,0,Dragon 2.0,03-06-2021

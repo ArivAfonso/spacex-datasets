@@ -1,7 +1,7 @@
-name,full_name,status,locality,region,timezone,latitude,longitude
-VAFB SLC 3W,Vandenberg Air Force Base Space Launch Complex 3W,retired,Vandenberg Air Force Base,California,America/Los_Angeles,34.6440904,-120.5931438
-CCSFS SLC 40,Cape Canaveral Space Force Station Space Launch Complex 40,active,Cape Canaveral,Florida,America/New_York,28.5618571,-80.577366
-STLS,SpaceX South Texas Launch Site,under construction,Boca Chica Village,Texas,America/Chicago,25.9972641,-97.1560845
-Kwajalein Atoll,Kwajalein Atoll Omelek Island,retired,Omelek Island,Marshall Islands,Pacific/Kwajalein,9.0477206,167.7431292
-VAFB SLC 4E,Vandenberg Air Force Base Space Launch Complex 4E,active,Vandenberg Air Force Base,California,America/Los_Angeles,34.632093,-120.610829
-KSC LC 39A,Kennedy Space Center Historic Launch Complex 39A,active,Cape Canaveral,Florida,America/New_York,28.6080585,-80.6039558
+name,location,region,latitude,longitude,attempted_launches,successful_launches,name_of_vehicles_launched,timezone
+Vandenberg Air Force Base Space Launch Complex 3W,Vandenberg Air Force Base,California,34.6440904,-120.5931438,0,0,Falcon 1,America/Los_Angeles
+Cape Canaveral Air Force Station Space Launch Complex 40,Cape Canaveral,Florida,28.5618571,-80.577366,61,59,Falcon 9,America/New_York
+SpaceX South Texas Launch Site,Boca Chica Village,Texas,25.9972641,-97.1560845,0,0,Falcon 9,America/Chicago
+Kwajalein Atoll Omelek Island,Omelek Island,Marshall Islands,9.0477206,167.7431292,5,2,Falcon 1,Pacific/Kwajalein
+Vandenberg Air Force Base Space Launch Complex 4E,Vandenberg Air Force Base,California,34.632093,-120.610829,16,16,Falcon 9,America/Los_Angeles
+Kennedy Space Center Historic Launch Complex 39A,Cape Canaveral,Florida,28.6080585,-80.6039558,27,26,"Falcon 9, Falcon Heavy",America/New_York

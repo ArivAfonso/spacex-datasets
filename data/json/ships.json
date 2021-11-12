@@ -2,226 +2,251 @@
   {
     "name": "American Champion",
     "type": "Tug",
-    "active": "FALSE",
-    "model": "None",
+    "active": false,
+    "model": null,
     "roles": "Support Ship, Barge Tug",
     "year_built": 1976,
-    "home_port": "Port of Los Angeles"
+    "home_port": "Port of Los Angeles",
+    "weight": 266712
   },
   {
     "name": "American Islander",
     "type": "Cargo",
-    "active": "FALSE",
-    "model": "None",
+    "active": false,
+    "model": null,
     "roles": "Dragon Recovery",
     "year_built": "Unknown",
-    "home_port": "Port of Los Angeles"
+    "home_port": "Port of Los Angeles",
+    "weight": null
   },
   {
     "name": "American Spirit",
     "type": "Cargo",
-    "active": "FALSE",
-    "model": "None",
+    "active": false,
+    "model": null,
     "roles": "Support Ship",
     "year_built": "Unknown",
-    "home_port": "Port of Los Angeles"
+    "home_port": "Port of Los Angeles",
+    "weight": null
   },
   {
     "name": "A Shortfall of Gravitas",
     "type": "Barge",
-    "active": "FALSE",
-    "model": "None",
+    "active": false,
+    "model": null,
     "roles": "ASDS barge",
     "year_built": "Unknown",
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": null
   },
   {
     "name": "Betty R Gambarella",
     "type": "Tug",
-    "active": "FALSE",
-    "model": "None",
+    "active": false,
+    "model": null,
     "roles": "ASDS Tug",
     "year_built": 1974,
-    "home_port": "Port of Los Angeles"
+    "home_port": "Port of Los Angeles",
+    "weight": 202302
   },
   {
     "name": "Elsbeth III",
     "type": "Tug",
-    "active": "FALSE",
-    "model": "None",
+    "active": false,
+    "model": null,
     "roles": "ASDS Tug",
     "year_built": 1999,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": 273063
   },
   {
     "name": "GO Ms Chief",
     "type": "High Speed Craft",
-    "active": "TRUE",
-    "model": "None",
+    "active": true,
+    "model": null,
     "roles": "Fairing Recovery",
     "year_built": 2014,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": 449964
   },
   {
     "name": "GO Ms Tree",
     "type": "High Speed Craft",
-    "active": "TRUE",
-    "model": "None",
+    "active": true,
+    "model": null,
     "roles": "Fairing Recovery",
     "year_built": 2015,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": 449964
   },
   {
     "name": "GO Navigator",
     "type": "Cargo",
-    "active": "TRUE",
-    "model": "None",
+    "active": true,
+    "model": null,
     "roles": "Support Ship, Fairing Recovery",
     "year_built": 2009,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": 451778
   },
   {
     "name": "GO Pursuit",
     "type": "Cargo",
-    "active": "FALSE",
-    "model": "None",
+    "active": false,
+    "model": null,
     "roles": "Support Ship, Fairing Recovery",
     "year_built": 2007,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": 502999
   },
   {
     "name": "GO Quest",
     "type": "Cargo",
-    "active": "TRUE",
-    "model": "None",
+    "active": true,
+    "model": null,
     "roles": "Support Ship",
     "year_built": 2014,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": null
   },
   {
     "name": "GO Searcher",
     "type": "Cargo",
-    "active": "TRUE",
-    "model": "None",
+    "active": true,
+    "model": null,
     "roles": "Support Ship, Fairing Recovery",
     "year_built": 2010,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": 450870
   },
   {
     "name": "HAWK",
     "type": "Tug",
-    "active": "FALSE",
-    "model": "None",
+    "active": false,
+    "model": null,
     "roles": "ASDS Tug",
     "year_built": 1995,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": 508023
   },
   {
     "name": "Hollywood",
     "type": "Tug",
-    "active": "TRUE",
-    "model": "None",
+    "active": true,
+    "model": null,
     "roles": "ASDS Tug",
     "year_built": 1985,
-    "home_port": "Fort Lauderdale"
+    "home_port": "Fort Lauderdale",
+    "weight": 320236
   },
   {
     "name": "Just Read The Instructions 1",
     "type": "Barge",
-    "active": "FALSE",
+    "active": false,
     "model": "Marmac 300",
     "roles": "ASDS barge",
     "year_built": 2014,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": null
   },
   {
     "name": "Just Read The Instructions 2",
     "type": "Barge",
-    "active": "TRUE",
+    "active": true,
     "model": "Marmac 303",
     "roles": "ASDS barge",
     "year_built": 2015,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": null
   },
   {
     "name": "Kelly C",
     "type": "Tug",
-    "active": "FALSE",
-    "model": "None",
+    "active": false,
+    "model": null,
     "roles": "ASDS Tug",
     "year_built": "Unknown",
-    "home_port": "Port of Los Angeles"
+    "home_port": "Port of Los Angeles",
+    "weight": null
   },
   {
     "name": "NRC Quest",
     "type": "Cargo",
-    "active": "TRUE",
-    "model": "None",
+    "active": true,
+    "model": null,
     "roles": "Support Ship, Dragon Recovery",
     "year_built": 2002,
-    "home_port": "Port of Los Angeles"
+    "home_port": "Port of Los Angeles",
+    "weight": 440892
   },
   {
     "name": "Of Course I Still Love You",
     "type": "Barge",
-    "active": "TRUE",
+    "active": true,
     "model": "Marmac 304",
     "roles": "ASDS barge",
     "year_built": 2015,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": null
   },
   {
     "name": "Pacific Freeedom",
     "type": "Tug",
-    "active": "TRUE",
-    "model": "None",
+    "active": true,
+    "model": null,
     "roles": "ASDS Tug",
     "year_built": 1976,
-    "home_port": "Port of Los Angeles"
+    "home_port": "Port of Los Angeles",
+    "weight": 89811
   },
   {
     "name": "Pacific Warrior",
     "type": "Tug",
-    "active": "FALSE",
-    "model": "None",
+    "active": false,
+    "model": null,
     "roles": "ASDS Tug",
     "year_built": 1974,
-    "home_port": "Port of Los Angeles"
+    "home_port": "Port of Los Angeles",
+    "weight": 351080
   },
   {
     "name": "RACHEL",
     "type": "Tug",
-    "active": "FALSE",
-    "model": "None",
+    "active": false,
+    "model": null,
     "roles": "ASDS Tug",
     "year_built": 1976,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": 312072
   },
   {
     "name": "Finn Falgout",
     "type": "Tug",
-    "active": "TRUE",
-    "model": "None",
+    "active": true,
+    "model": null,
     "roles": "Support Ship, Barge Tug",
     "year_built": 1975,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": null
   },
   {
     "name": "Lauren Foss",
     "type": "Tug",
-    "active": "TRUE",
-    "model": "None",
+    "active": true,
+    "model": null,
     "roles": "Support Ship, Barge Tug",
     "year_built": 2003,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": null
   },
   {
     "name": "Shelia Bordelon",
     "type": "Cargo",
-    "active": "TRUE",
-    "model": "None",
+    "active": true,
+    "model": null,
     "roles": "Fairing Recovery, Support Ship",
     "year_built": 2014,
-    "home_port": "Port Canaveral"
+    "home_port": "Port Canaveral",
+    "weight": null
   }
 ]

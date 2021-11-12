@@ -4,146 +4,197 @@
     "status": "retired",
     "reuse_count": 0,
     "water_landings": 1,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 1.0",
+    "original_launch": "08-12-2010"
   },
   {
     "serial": "C102",
     "status": "retired",
     "reuse_count": 0,
     "water_landings": 1,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 1.0",
+    "original_launch": "22-05-2012"
   },
   {
     "serial": "C103",
     "status": "unknown",
     "reuse_count": 0,
     "water_landings": 1,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 1.0",
+    "original_launch": "08-10-2012"
   },
   {
     "serial": "C104",
     "status": "unknown",
     "reuse_count": 0,
     "water_landings": 1,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 1.0",
+    "original_launch": "01-03-2013"
   },
   {
     "serial": "C105",
     "status": "unknown",
     "reuse_count": 0,
     "water_landings": 1,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 1.1",
+    "original_launch": "18-04-2014"
   },
   {
     "serial": "C106",
     "status": "active",
     "reuse_count": 2,
     "water_landings": 3,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 1.1",
+    "original_launch": "21-09-2014"
   },
   {
     "serial": "C107",
     "status": "unknown",
     "reuse_count": 0,
     "water_landings": 1,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 1.1",
+    "original_launch": "10-01-2015"
   },
   {
     "serial": "C108",
     "status": "active",
     "reuse_count": 2,
     "water_landings": 3,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 1.1",
+    "original_launch": "14-04-2015"
   },
   {
     "serial": "C109",
     "status": "destroyed",
     "reuse_count": 0,
     "water_landings": 1,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 1.1",
+    "original_launch": "28-06-2015"
   },
   {
     "serial": "C110",
     "status": "active",
     "reuse_count": 1,
     "water_landings": 2,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 1.1",
+    "original_launch": "08-04-2016"
   },
   {
     "serial": "C111",
     "status": "active",
     "reuse_count": 1,
     "water_landings": 2,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 1.1",
+    "original_launch": "18-07-2016"
   },
   {
     "serial": "C112",
     "status": "active",
     "reuse_count": 2,
     "water_landings": 3,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 1.1",
+    "original_launch": "19-02-2017"
   },
   {
     "serial": "C113",
     "status": "active",
     "reuse_count": 1,
     "water_landings": 2,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 1.1",
+    "original_launch": "14-08-2017"
   },
   {
     "serial": "C201",
-    "status": "active",
+    "status": "retired",
     "reuse_count": 0,
     "water_landings": 1,
-    "land_landings": 0
-  },
-  {
-    "serial": "C205",
-    "status": "active",
-    "reuse_count": 0,
-    "water_landings": 1,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 2.0",
+    "original_launch": "02-03-2019"
   },
   {
     "serial": "C202",
-    "status": "active",
+    "status": "retired",
     "reuse_count": 0,
-    "water_landings": 0,
-    "land_landings": 0
+    "water_landings": 1,
+    "land_landings": 0,
+    "type": "Dragon 2.0",
+    "original_launch": null
   },
   {
     "serial": "C203",
     "status": "active",
     "reuse_count": 0,
     "water_landings": 0,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 2.0",
+    "original_launch": null
   },
   {
     "serial": "C204",
+    "status": "destroyed",
+    "reuse_count": 0,
+    "water_landings": 1,
+    "land_landings": 0,
+    "type": "Dragon 2.0",
+    "original_launch": "02-03-2019"
+  },
+  {
+    "serial": "C205",
     "status": "active",
     "reuse_count": 0,
     "water_landings": 0,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 2.0",
+    "original_launch": "19-01-2020"
   },
   {
     "serial": "C206",
     "status": "active",
     "reuse_count": 1,
     "water_landings": 2,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 2.0",
+    "original_launch": "30-05-2020"
   },
   {
     "serial": "C207",
     "status": "active",
     "reuse_count": 1,
     "water_landings": 2,
-    "land_landings": 2
+    "land_landings": 2,
+    "type": "Dragon 2.0",
+    "original_launch": "16-11-2020"
   },
   {
     "serial": "C208",
     "status": "active",
     "reuse_count": 2,
     "water_landings": 2,
-    "land_landings": 0
+    "land_landings": 0,
+    "type": "Dragon 2.0",
+    "original_launch": "06-12-2020"
+  },
+  {
+    "serial": "C209",
+    "status": "active",
+    "reuse_count": 0,
+    "water_landings": 1,
+    "land_landings": 0,
+    "type": "Dragon 2.0",
+    "original_launch": "03-06-2021"
   }
 ]
