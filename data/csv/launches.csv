@@ -50,7 +50,7 @@ Date,Time (UTC),Booster Version,Dragon Version,Launch Site,Payload,Payload Mass 
 30-10-2017,19:34:00,F9 B4 B1042.1,Dragon Not Used,KSC LC-39A,Koreasat 5A,"3,500",Communication Satellite,GTO,KT Corporation,Business,South Korea,Success,Success (drone ship),Of Course I Still Love You
 15-12-2017,15:36:00,F9 FT  B1035.2,C108.2,CCAFS SLC-40,SpaceX CRS-13,"2,205",Space Station Supplies,LEO (ISS),NASA (CRS),Government,United States of America,Success,Success (ground pad),No Ship Used
 23-12-2017,01:27:00,F9 FT  B1036.2,Dragon Not Used,VAFB SLC-4E,Iridium NEXT 4,"9,600",Communication Satellite,Polar LEO,Iridium Communications,Business,United States of America,Success,Controlled (ocean),No Ship Used
-08-01-2018,01:00:00,F9 B4 B1043.1,Dragon Not Used,CCAFS SLC-40,Zuma,Classified,Communication Satellite,LEO,Northrop Grumman,Business,United States of America,Success  (payloadÂ status unclear),Success (ground pad),No Ship Used
+08-01-2018,01:00:00,F9 B4 B1043.1,Dragon Not Used,CCAFS SLC-40,Zuma,Classified,Communication Satellite,LEO,Northrop Grumman,Business,United States of America,Success  (payload status unclear),Success (ground pad),No Ship Used
 31-01-2018,21:25:00,F9 FT  B1032.2,Dragon Not Used,CCAFS SLC-40,GovSat-1 / SES-16,"4,230",Communication Satellite,GTO,SES,Business,Luxembourg,Success,Controlled (ocean),No Ship Used
 06-02-2018,20:45:00,"B1023.2  (side) , Heavy core B1033, B1025.2 (side) ",Dragon Not Used,KSC LC-39A,Elon Musk's Tesla Roadster,"1,250",Demonstration,Heliocentric 0.99â€“1.67 AU  (close to Mars transfer orbit),SpaceX,Testing,United States of America,Success,"Success (ground pad), Failure (drone ship), Success (ground pad)",Of Course I Still Love You
 22-02-2018,14:17:00,F9 FT  B1038.2,Dragon Not Used,VAFB SLC-4E,Paz  Tintin A & B,"2,150",Demonstration,SSO,Hisdesat exactEarth SpaceX,Business,United States of America,Success,No attempt,No Ship Used
@@ -132,4 +132,5 @@ Date,Time (UTC),Booster Version,Dragon Version,Launch Site,Payload,Payload Mass 
 30-06-2021,19:31:00,F9 B5  B1060.8,Dragon Not Used,CCSFS SLC-40,Transporter-2,1100,Rideshare,SS0,Various,Rideshare,United States of America,Success,Success (ground pad),No Ship Used
 29-08-2021,07:14:00,F9 B5  B1061.4,C208.2,KSC LC-39A,SpaceX CRS-23,2200,Space Station Supplies,LEO (ISS),NASA (CRS),Government,United States of America,Success,Success (drone ship),A Shortfall Of Gravitas
 14-09-2021,03:55:00,F9 B5  B1049.10,Dragon Not Used,VAFB SLC-4E,Starlink Group 2-1 v1.5,13260,Starlink,LEO,SpaceX,Business,United States of America,Success,Success (drone ship),Of Course I Still Love You
-16-09-2021,00:02:56,F9 B5  B1062.3,C207.2,KSC LC-39A,Inspiration4,12519,Human Spaceflight,LEO,Jared Isaacman,Business,United States of America,,Success (drone ship),Just Read The Instructions
+16-09-2021,00:02:56,F9 B5  B1062.3,C207.2,KSC LC-39A,Inspiration4,12519,Human Spaceflight,LEO,Jared Isaacman,Business,United States of America,Success,Success (drone ship),Just Read The Instructions
+11-11-2021,02:03:31,F9 B5 B1067.2,C210.1,KSC LC-39A,Crew-3,13000,Human Spaceflight,LEO (ISS),NASA (CCP),Government,United States of America,Success,Success (drone ship),A Shortfall Of Gravitas

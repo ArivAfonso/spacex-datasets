@@ -2249,7 +2249,7 @@
     "Booster Version": "F9 B5  B1049.10",
     "Dragon Version": "Dragon Not Used",
     "Launch Site": "VAFB SLC-4E",
-    "Payload": "Starlink�Group 2-1 v1.5",
+    "Payload": "Starlink Group 2-1 v1.5",
     "Payload Mass (kg)": 13260,
     "Payload Type": "Starlink",
     "Orbit": "LEO",
@@ -2273,8 +2273,25 @@
     "Customer": "Jared Isaacman",
     "Customer Type": "Business",
     "Customer Country": "United States of America",
-    "Mission Outcome": "",
+    "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions"
+  },
+  {
+    "Date": "11-11-2021",
+    "Time (UTC)": "02:03:31",
+    "Booster Version": "F9 B5  B1067.2",
+    "Dragon Version": "C210.1",
+    "Launch Site": "KSC LC-39A",
+    "Payload": "Crew-3",
+    "Payload Mass (kg)": 13000,
+    "Payload Type": "Human Spaceflight",
+    "Orbit": "LEO (ISS)",
+    "Customer": "NASA",
+    "Customer Type": "Government",
+    "Customer Country": "United States of America",
+    "Mission Outcome": "Success",
+    "Landing Outcome": "Success (drone ship)",
+    "Drone Ship": "A Shortfall of Gravitas"
   }
 ]

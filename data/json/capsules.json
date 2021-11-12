@@ -196,5 +196,14 @@
     "land_landings": 0,
     "type": "Dragon 2.0",
     "original_launch": "03-06-2021"
+  },
+  {
+    "serial": "C210",
+    "status": "active",
+    "reuse_count": 0,
+    "water_landings": 0,
+    "land_landings": 0,
+    "type": "Dragon 2.0",
+    "original_launch": "11-11-2021"
   }
 ]

@@ -722,11 +722,11 @@
   {
     "serial": "B1067",
     "status": "active",
-    "reuse_count": 0,
+    "reuse_count": 1,
     "block": 5,
     "rtls_attempts": 0,
     "rtls_landings": 0,
-    "asds_attempts": 1,
-    "asds_landings": 1
+    "asds_attempts": 2,
+    "asds_landings": 2
   }
 ]
