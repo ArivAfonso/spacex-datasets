@@ -1,4 +1,4 @@
-Date,Time (UTC),Booster Version,Dragon Version,Launch Site,Payload,Payload Mass (kg),Payload Type,Orbit,Customer,Customer Type,Customer Country,Mission Outcome,Landing Outcome,Drone Ship
+Date,Time (UTC),Booster Version,Dragon Version,Launch Site,Mission,Payload Mass (kg),Payload Type,Orbit,Customer,Customer Type,Customer Country,Mission Outcome,Landing Outcome,Drone Ship
 24-03-2006,22:30:00,F1,Dragon Not Used,Marshall Islands,,19.5,Observation Satellite,LEO,DARPA,Government,United States of America,Failure  (in flight),No attempt,No Ship Used
 21-03-2007,01:10:00,F1,Dragon Not Used,Marshall Islands,DemoSat,,Demonstration,LEO,DARPA,Government,United States of America,Failure  (in flight),No attempt,No Ship Used
 03-08-2008,03:34:00,F1,Dragon Not Used,Marshall Islands,Trailblazer/PRESat/NanoSail-D/Explorers,4,Observation Satellite,LEO,ORS/NASA/Celestis,Rideshare,United States of America,Failure  (in flight),No attempt,No Ship Used
