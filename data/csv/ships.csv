@@ -1,26 +1,26 @@
-name,type,active,model,roles,year_built,home_port,weight
-American Champion,Tug,FALSE,,"Support Ship, Barge Tug",1976,Port of Los Angeles,266712
-American Islander,Cargo,FALSE,,Dragon Recovery,Unknown,Port of Los Angeles,
-American Spirit,Cargo,FALSE,,Support Ship,Unknown,Port of Los Angeles,
-A Shortfall of Gravitas,Barge,FALSE,,ASDS barge,Unknown,Port Canaveral,
-Betty R Gambarella,Tug,FALSE,,ASDS Tug,1974,Port of Los Angeles,202302
-Elsbeth III,Tug,FALSE,,ASDS Tug,1999,Port Canaveral,273063
-GO Ms Chief,High Speed Craft,TRUE,,Fairing Recovery,2014,Port Canaveral,449964
-GO Ms Tree,High Speed Craft,TRUE,,Fairing Recovery,2015,Port Canaveral,449964
-GO Navigator,Cargo,TRUE,,"Support Ship, Fairing Recovery",2009,Port Canaveral,451778
-GO Pursuit,Cargo,FALSE,,"Support Ship, Fairing Recovery",2007,Port Canaveral,502999
-GO Quest,Cargo,TRUE,,Support Ship,2014,Port Canaveral,
-GO Searcher,Cargo,TRUE,,"Support Ship, Fairing Recovery",2010,Port Canaveral,450870
-HAWK,Tug,FALSE,,ASDS Tug,1995,Port Canaveral,508023
-Hollywood,Tug,TRUE,,ASDS Tug,1985,Fort Lauderdale,320236
-Just Read The Instructions 1,Barge,FALSE,Marmac 300,ASDS barge,2014,Port Canaveral,
-Just Read The Instructions 2,Barge,TRUE,Marmac 303,ASDS barge,2015,Port Canaveral,
-Kelly C,Tug,FALSE,,ASDS Tug,Unknown,Port of Los Angeles,
-NRC Quest,Cargo,TRUE,,"Support Ship, Dragon Recovery",2002,Port of Los Angeles,440892
-Of Course I Still Love You,Barge,TRUE,Marmac 304,ASDS barge,2015,Port Canaveral,
-Pacific Freeedom,Tug,TRUE,,ASDS Tug,1976,Port of Los Angeles,89811
-Pacific Warrior,Tug,FALSE,,ASDS Tug,1974,Port of Los Angeles,351080
-RACHEL,Tug,FALSE,,ASDS Tug,1976,Port Canaveral,312072
-Finn Falgout,Tug,TRUE,,"Support Ship, Barge Tug",1975,Port Canaveral,
-Lauren Foss,Tug,TRUE,,"Support Ship, Barge Tug",2003,Port Canaveral,
-Shelia Bordelon,Cargo,TRUE,,"Fairing Recovery, Support Ship",2014,Port Canaveral,
+name,type,active,model,roles,year_built,home_port,weight,landings
+American Champion,Tug,FALSE,,"Support Ship, Barge Tug",1976,Port of Los Angeles,266712,
+American Islander,Cargo,FALSE,,Dragon Recovery,Unknown,Port of Los Angeles,,
+American Spirit,Cargo,FALSE,,Support Ship,Unknown,Port of Los Angeles,,
+A Shortfall of Gravitas,Barge,FALSE,Marmac 302,ASDS barge,Unknown,Port Canaveral,,2
+Betty R Gambarella,Tug,FALSE,,ASDS Tug,1974,Port of Los Angeles,202302,
+Elsbeth III,Tug,FALSE,,ASDS Tug,1999,Port Canaveral,273063,
+GO Ms Chief,High Speed Craft,TRUE,,Fairing Recovery,2014,Port Canaveral,449964,
+GO Ms Tree,High Speed Craft,TRUE,,Fairing Recovery,2015,Port Canaveral,449964,
+GO Navigator,Cargo,TRUE,,"Support Ship, Fairing Recovery",2009,Port Canaveral,451778,
+GO Pursuit,Cargo,FALSE,,"Support Ship, Fairing Recovery",2007,Port Canaveral,502999,
+GO Quest,Cargo,TRUE,,Support Ship,2014,Port Canaveral,,
+GO Searcher,Cargo,TRUE,,"Support Ship, Fairing Recovery",2010,Port Canaveral,450870,
+HAWK,Tug,FALSE,,ASDS Tug,1995,Port Canaveral,508023,
+Hollywood,Tug,TRUE,,ASDS Tug,1985,Fort Lauderdale,320236,
+Just Read The Instructions 1,Barge,FALSE,Marmac 300,ASDS barge,2014,Port Canaveral,,2
+Just Read The Instructions 2,Barge,TRUE,Marmac 303,ASDS barge,2015,Port Canaveral,,25
+Kelly C,Tug,FALSE,,ASDS Tug,Unknown,Port of Los Angeles,,
+NRC Quest,Cargo,TRUE,,"Support Ship, Dragon Recovery",2002,Port of Los Angeles,440892,
+Of Course I Still Love You,Barge,TRUE,Marmac 304,ASDS barge,2015,Port Canaveral,,55
+Pacific Freeedom,Tug,TRUE,,ASDS Tug,1976,Port of Los Angeles,89811,
+Pacific Warrior,Tug,FALSE,,ASDS Tug,1974,Port of Los Angeles,351080,
+RACHEL,Tug,FALSE,,ASDS Tug,1976,Port Canaveral,312072,
+Finn Falgout,Tug,TRUE,,"Support Ship, Barge Tug",1975,Port Canaveral,,
+Lauren Foss,Tug,TRUE,,"Support Ship, Barge Tug",2003,Port Canaveral,,
+Shelia Bordelon,Cargo,TRUE,,"Fairing Recovery, Support Ship",2014,Port Canaveral,,

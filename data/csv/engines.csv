@@ -1,0 +1,6 @@
+type,version,status,number,engine_loss_max,layout,propellant_1,propellant_2,thrust_sea_level/kN,thrust_sea_level(lbf),thrust_to_weight,thrust_vacuum(kN),thrust_vacuum(lbf),chamber_pressure(bar),chamber_pressure(psi)
+merlin,1C,retired,1,0,single,liquid oxygen,RP-1 kerosene,420,94000,96,480,110000,67.7,982
+merlin,1D+,,9,2,octaweb,liquid oxygen,RP-1 kerosene,845,190000,180.1,914,205500,97,1410
+merlin,1D+,,27,6,octaweb,liquid oxygen,RP-1 kerosene,845,190000,180.1,914,205500,97,1410
+kestrel,,retired,1,0,single,liquid oxygen,RP-1 kerosene,,,65,28,6000,9.3,135
+raptor,,,37,,,liquid oxygen,liquid methane,1780,400000,107,1960,440000,300,4800

@@ -641,13 +641,13 @@
   },
   {
     "serial": "B1058",
-    "status": "unknown",
-    "reuse_count": 7,
+    "status": "active",
+    "reuse_count": 8,
     "block": 5,
     "rtls_attempts": 0,
     "rtls_landings": 0,
-    "asds_attempts": 8,
-    "asds_landings": 8
+    "asds_attempts": 9,
+    "asds_landings": 9
   },
   {
     "serial": "B1060",

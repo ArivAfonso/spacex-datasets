@@ -7,7 +7,8 @@
     "roles": "Support Ship, Barge Tug",
     "year_built": 1976,
     "home_port": "Port of Los Angeles",
-    "weight": 266712
+    "weight": 266712,
+    "landings": null
   },
   {
     "name": "American Islander",
@@ -17,7 +18,8 @@
     "roles": "Dragon Recovery",
     "year_built": "Unknown",
     "home_port": "Port of Los Angeles",
-    "weight": null
+    "weight": null,
+    "landings": null
   },
   {
     "name": "American Spirit",
@@ -32,12 +34,13 @@
   {
     "name": "A Shortfall of Gravitas",
     "type": "Barge",
-    "active": false,
+    "active": "Marmac 302",
     "model": null,
     "roles": "ASDS barge",
     "year_built": "Unknown",
     "home_port": "Port Canaveral",
-    "weight": null
+    "weight": null,
+    "landings": 2
   },
   {
     "name": "Betty R Gambarella",
@@ -47,7 +50,8 @@
     "roles": "ASDS Tug",
     "year_built": 1974,
     "home_port": "Port of Los Angeles",
-    "weight": 202302
+    "weight": 202302,
+    "landings": null
   },
   {
     "name": "Elsbeth III",
@@ -57,7 +61,8 @@
     "roles": "ASDS Tug",
     "year_built": 1999,
     "home_port": "Port Canaveral",
-    "weight": 273063
+    "weight": 273063,
+    "landings": null
   },
   {
     "name": "GO Ms Chief",
@@ -67,7 +72,8 @@
     "roles": "Fairing Recovery",
     "year_built": 2014,
     "home_port": "Port Canaveral",
-    "weight": 449964
+    "weight": 449964,
+    "landings": null
   },
   {
     "name": "GO Ms Tree",
@@ -77,7 +83,8 @@
     "roles": "Fairing Recovery",
     "year_built": 2015,
     "home_port": "Port Canaveral",
-    "weight": 449964
+    "weight": 449964,
+    "landings": null
   },
   {
     "name": "GO Navigator",
@@ -87,7 +94,8 @@
     "roles": "Support Ship, Fairing Recovery",
     "year_built": 2009,
     "home_port": "Port Canaveral",
-    "weight": 451778
+    "weight": 451778,
+    "landings": null
   },
   {
     "name": "GO Pursuit",
@@ -97,7 +105,8 @@
     "roles": "Support Ship, Fairing Recovery",
     "year_built": 2007,
     "home_port": "Port Canaveral",
-    "weight": 502999
+    "weight": 502999,
+    "landings": null
   },
   {
     "name": "GO Quest",
@@ -107,7 +116,8 @@
     "roles": "Support Ship",
     "year_built": 2014,
     "home_port": "Port Canaveral",
-    "weight": null
+    "weight": null,
+    "landings": null
   },
   {
     "name": "GO Searcher",
@@ -117,7 +127,8 @@
     "roles": "Support Ship, Fairing Recovery",
     "year_built": 2010,
     "home_port": "Port Canaveral",
-    "weight": 450870
+    "weight": 450870,
+    "landings": null
   },
   {
     "name": "HAWK",
@@ -127,7 +138,8 @@
     "roles": "ASDS Tug",
     "year_built": 1995,
     "home_port": "Port Canaveral",
-    "weight": 508023
+    "weight": 508023,
+    "landings": null
   },
   {
     "name": "Hollywood",
@@ -137,7 +149,8 @@
     "roles": "ASDS Tug",
     "year_built": 1985,
     "home_port": "Fort Lauderdale",
-    "weight": 320236
+    "weight": 320236,
+    "landings": null
   },
   {
     "name": "Just Read The Instructions 1",
@@ -147,7 +160,8 @@
     "roles": "ASDS barge",
     "year_built": 2014,
     "home_port": "Port Canaveral",
-    "weight": null
+    "weight": null,
+    "landings": 2
   },
   {
     "name": "Just Read The Instructions 2",
@@ -157,7 +171,8 @@
     "roles": "ASDS barge",
     "year_built": 2015,
     "home_port": "Port Canaveral",
-    "weight": null
+    "weight": null,
+    "landings": 25
   },
   {
     "name": "Kelly C",
@@ -167,7 +182,8 @@
     "roles": "ASDS Tug",
     "year_built": "Unknown",
     "home_port": "Port of Los Angeles",
-    "weight": null
+    "weight": null,
+    "landings": null
   },
   {
     "name": "NRC Quest",
@@ -177,7 +193,8 @@
     "roles": "Support Ship, Dragon Recovery",
     "year_built": 2002,
     "home_port": "Port of Los Angeles",
-    "weight": 440892
+    "weight": 440892,
+    "landings": null
   },
   {
     "name": "Of Course I Still Love You",
@@ -187,7 +204,8 @@
     "roles": "ASDS barge",
     "year_built": 2015,
     "home_port": "Port Canaveral",
-    "weight": null
+    "weight": null,
+    "landings" : 55
   },
   {
     "name": "Pacific Freeedom",
@@ -197,7 +215,8 @@
     "roles": "ASDS Tug",
     "year_built": 1976,
     "home_port": "Port of Los Angeles",
-    "weight": 89811
+    "weight": 89811,
+    "landings": null
   },
   {
     "name": "Pacific Warrior",
@@ -207,7 +226,8 @@
     "roles": "ASDS Tug",
     "year_built": 1974,
     "home_port": "Port of Los Angeles",
-    "weight": 351080
+    "weight": 351080,
+    "landings": null
   },
   {
     "name": "RACHEL",
@@ -217,7 +237,8 @@
     "roles": "ASDS Tug",
     "year_built": 1976,
     "home_port": "Port Canaveral",
-    "weight": 312072
+    "weight": 312072,
+    "landings": null
   },
   {
     "name": "Finn Falgout",
@@ -227,7 +248,8 @@
     "roles": "Support Ship, Barge Tug",
     "year_built": 1975,
     "home_port": "Port Canaveral",
-    "weight": null
+    "weight": null,
+    "landings": null
   },
   {
     "name": "Lauren Foss",
@@ -237,7 +259,8 @@
     "roles": "Support Ship, Barge Tug",
     "year_built": 2003,
     "home_port": "Port Canaveral",
-    "weight": null
+    "weight": null,
+    "landings": null
   },
   {
     "name": "Shelia Bordelon",
@@ -247,6 +270,7 @@
     "roles": "Fairing Recovery, Support Ship",
     "year_built": 2014,
     "home_port": "Port Canaveral",
-    "weight": null
+    "weight": null,
+    "landings": null
   }
 ]

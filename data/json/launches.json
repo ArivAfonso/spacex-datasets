@@ -14,7 +14,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Failure  (in flight)",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "21-03-2007",
@@ -31,7 +32,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Failure  (in flight)",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "03-08-2008",
@@ -48,7 +50,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Failure  (in flight)",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "28-09-2008",
@@ -65,7 +68,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "14-07-2009",
@@ -82,7 +86,8 @@
     "Customer Country": "Malaysia",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "04-06-2010",
@@ -90,8 +95,8 @@
     "Booster Version": "F9 v1.0  B0003",
     "Dragon Version": "Dragon Not Used",
     "Launch Site": "CCAFS LC-40",
-    "Mission": null,
-    "Payload Mass (kg)": null,
+    "Mission": "No Payload",
+    "Payload Mass (kg)": "Unknown",
     "Payload Type": "Demonstration",
     "Orbit": "LEO",
     "Customer": "SpaceX",
@@ -99,7 +104,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure   (parachute)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "08-12-2010",
@@ -116,7 +122,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure   (parachute)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "22-05-2012",
@@ -133,7 +140,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "08-10-2012",
@@ -150,7 +158,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "01-03-2013",
@@ -167,7 +176,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "29-09-2013",
@@ -184,7 +194,8 @@
     "Customer Country": "Canada",
     "Mission Outcome": "Success",
     "Landing Outcome": "Uncontrolled (ocean)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "03-12-2013",
@@ -201,7 +212,8 @@
     "Customer Country": "Luxembourg",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "06-01-2014",
@@ -218,7 +230,8 @@
     "Customer Country": "Thailand",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "18-04-2014",
@@ -235,7 +248,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Controlled (ocean)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "14-07-2014",
@@ -252,7 +266,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Controlled (ocean)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "05-08-2014",
@@ -269,7 +284,8 @@
     "Customer Country": "China",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "07-09-2014",
@@ -286,7 +302,8 @@
     "Customer Country": "China",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "21-09-2014",
@@ -303,7 +320,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Uncontrolled (ocean)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "10-01-2015",
@@ -320,7 +338,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure  (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 300"
   },
   {
     "Date": "11-02-2015",
@@ -337,7 +356,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Controlled (ocean)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "02-03-2015",
@@ -354,7 +374,8 @@
     "Customer Country": "France",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "14-04-2015",
@@ -371,7 +392,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure  (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 300"
   },
   {
     "Date": "27-04-2015",
@@ -388,7 +410,8 @@
     "Customer Country": "Turkmenistan",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "28-06-2015",
@@ -405,7 +428,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Failure  (in flight)",
     "Landing Outcome": "Precluded  (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "22-12-2015",
@@ -422,7 +446,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success  (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "17-01-2016",
@@ -439,7 +464,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "04-03-2016",
@@ -456,7 +482,8 @@
     "Customer Country": "Luxembourg",
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "08-04-2016",
@@ -473,7 +500,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success  (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "06-05-2016",
@@ -490,7 +518,8 @@
     "Customer Country": "Japan",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "27-05-2016",
@@ -507,7 +536,8 @@
     "Customer Country": "Thailand",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success  (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "15-06-2016",
@@ -524,7 +554,8 @@
     "Customer Country": "France",
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure  (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "18-07-2016",
@@ -541,7 +572,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "14-08-2016",
@@ -558,7 +590,8 @@
     "Customer Country": "Japan",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "14-01-2017",
@@ -575,7 +608,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success  (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "19-02-2017",
@@ -592,7 +626,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "16-03-2017",
@@ -609,7 +644,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "30-03-2017",
@@ -626,7 +662,8 @@
     "Customer Country": "Luxembourg",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "01-05-2017",
@@ -643,7 +680,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "15-05-2017",
@@ -660,7 +698,8 @@
     "Customer Country": "Britain",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "03-06-2017",
@@ -677,7 +716,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "23-06-2017",
@@ -694,7 +734,8 @@
     "Customer Country": "Bulgaria",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "25-06-2017",
@@ -707,11 +748,12 @@
     "Payload Type": "Communication Satellite",
     "Orbit": "LEO",
     "Customer": "Iridium Communications",
-    "Customer Type": "",
+    "Customer Type": null,
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "05-07-2017",
@@ -728,7 +770,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "14-08-2017",
@@ -745,7 +788,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "24-08-2017",
@@ -762,7 +806,8 @@
     "Customer Country": "Taiwan",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "07-09-2017",
@@ -779,7 +824,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "09-10-2017",
@@ -792,11 +838,12 @@
     "Payload Type": "Communication Satellite",
     "Orbit": "Polar LEO",
     "Customer": "Iridium Communications",
-    "Customer Type": "",
+    "Customer Type": null,
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "11-10-2017",
@@ -813,7 +860,8 @@
     "Customer Country": "Luxembourg",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "30-10-2017",
@@ -830,7 +878,8 @@
     "Customer Country": "South Korea",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "15-12-2017",
@@ -847,7 +896,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "23-12-2017",
@@ -864,7 +914,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Controlled (ocean)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "08-01-2018",
@@ -879,9 +930,10 @@
     "Customer": "Northrop Grumman",
     "Customer Type": "Business",
     "Customer Country": "United States of America",
-    "Mission Outcome": "Success  (payload status unclear)",
+    "Mission Outcome": "Success  (payload�status unclear)",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "31-01-2018",
@@ -898,7 +950,8 @@
     "Customer Country": "Luxembourg",
     "Mission Outcome": "Success",
     "Landing Outcome": "Controlled (ocean)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "06-02-2018",
@@ -915,7 +968,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad), Failure (drone ship), Success (ground pad)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "22-02-2018",
@@ -932,7 +986,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "06-03-2018",
@@ -949,7 +1004,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "30-03-2018",
@@ -966,7 +1022,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "02-04-2018",
@@ -983,7 +1040,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "18-04-2018",
@@ -1000,7 +1058,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "11-05-2018",
@@ -1017,7 +1076,8 @@
     "Customer Country": "France",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "22-05-2018",
@@ -1034,7 +1094,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "04-06-2018",
@@ -1051,7 +1112,8 @@
     "Customer Country": "Luxembourg",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "29-06-2018",
@@ -1068,7 +1130,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "22-07-2018",
@@ -1085,7 +1148,8 @@
     "Customer Country": "Canada",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "25-07-2018",
@@ -1102,7 +1166,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "07-08-2018",
@@ -1119,7 +1184,8 @@
     "Customer Country": "Indonesia",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "10-09-2018",
@@ -1136,7 +1202,8 @@
     "Customer Country": "Canada",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "08-10-2018",
@@ -1153,7 +1220,8 @@
     "Customer Country": "Argentina",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "15-11-2018",
@@ -1170,7 +1238,8 @@
     "Customer Country": "Qatar",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "03-12-2018",
@@ -1187,7 +1256,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "05-12-2018",
@@ -1204,7 +1274,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "23-12-2018",
@@ -1221,7 +1292,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "11-01-2019",
@@ -1238,7 +1310,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "22-02-2019",
@@ -1255,7 +1328,8 @@
     "Customer Country": "Indonesia",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "02-03-2019",
@@ -1272,13 +1346,14 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "11-04-2019",
     "Time (UTC)": "22:35:00",
     "Booster Version": "B1052.1 (side), Heavy core B1055, B1053.1 (side)",
-    "Dragon Version": "",
+    "Dragon Version": null,
     "Launch Site": "KSC LC-39A",
     "Mission": "Arabsat-6A",
     "Payload Mass (kg)": 6465,
@@ -1289,7 +1364,8 @@
     "Customer Country": "Saudi Arabia",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship), Success (ground pad), Success (ground pad",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "04-05-2019",
@@ -1300,13 +1376,14 @@
     "Mission": "SpaceX CRS-17",
     "Payload Mass (kg)": 2495,
     "Payload Type": "Space Station Supplies",
-    "Orbit": "",
+    "Orbit": null,
     "Customer": "NASA (CRS)",
     "Customer Type": "Government",
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drop ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "24-05-2019",
@@ -1323,7 +1400,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drop ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "12-06-2019",
@@ -1340,7 +1418,8 @@
     "Customer Country": "Canada",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drop ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "25-06-2019",
@@ -1357,7 +1436,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (drone ship), Success (ground pad), Success (ground pad)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "25-07-2019",
@@ -1374,7 +1454,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "06-08-2019",
@@ -1391,7 +1472,8 @@
     "Customer Country": "Israel",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "11-01-2019",
@@ -1408,7 +1490,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "05-12-2019",
@@ -1425,7 +1508,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "17-12-2019",
@@ -1442,7 +1526,8 @@
     "Customer Country": "Japan",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "07-01-2020",
@@ -1459,7 +1544,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "19-01-2020",
@@ -1476,7 +1562,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "29-01-2020",
@@ -1493,7 +1580,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "17-02-2020",
@@ -1510,7 +1598,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "07-03-2020",
@@ -1527,7 +1616,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "18-03-2020",
@@ -1544,7 +1634,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "22-04-2020",
@@ -1561,7 +1652,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "30-05-2020",
@@ -1578,7 +1670,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "04-06-2020",
@@ -1595,7 +1688,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "13-06-2020",
@@ -1612,7 +1706,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "30-06-2020",
@@ -1629,7 +1724,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "20-07-2020",
@@ -1646,7 +1742,8 @@
     "Customer Country": "South Korea",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "07-08-2020",
@@ -1663,7 +1760,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "18-08-2020",
@@ -1680,7 +1778,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "30-08-2020",
@@ -1697,7 +1796,8 @@
     "Customer Country": "Argentina",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "03-09-2020",
@@ -1714,7 +1814,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "06-10-2020",
@@ -1731,7 +1832,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "18-10-202",
@@ -1748,7 +1850,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "24-10-2020",
@@ -1765,7 +1868,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "05-11-2020",
@@ -1782,7 +1886,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "16-11-2020",
@@ -1799,7 +1904,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "21-11-2020",
@@ -1816,7 +1922,8 @@
     "Customer Country": "Europe",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "25-11-2020",
@@ -1833,7 +1940,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "06-12-2020",
@@ -1850,7 +1958,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "13-12-2020",
@@ -1867,7 +1976,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "19-12-2020",
@@ -1884,7 +1994,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "08-01-2021",
@@ -1901,7 +2012,8 @@
     "Customer Country": "Turkey",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "20-01-2021",
@@ -1918,7 +2030,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "24-01-2021",
@@ -1935,7 +2048,8 @@
     "Customer Country": "Various",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "04-02-2021",
@@ -1952,7 +2066,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "16-02-2021",
@@ -1969,7 +2084,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "04-03-2021",
@@ -1986,7 +2102,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "11-03-2021",
@@ -2003,7 +2120,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "14-03-2021",
@@ -2020,7 +2138,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "24-03-2021",
@@ -2037,7 +2156,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "07-04-2021",
@@ -2054,7 +2174,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "23-04-2021",
@@ -2071,7 +2192,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "29-04-2021",
@@ -2088,7 +2210,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "04-05-2021",
@@ -2105,7 +2228,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "09-05-2021",
@@ -2122,7 +2246,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "15-05-2021",
@@ -2139,7 +2264,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "26-05-2021",
@@ -2156,7 +2282,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "03-06-2021",
@@ -2173,7 +2300,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "06-06-2021",
@@ -2190,7 +2318,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "17-06-2021",
@@ -2207,7 +2336,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "30-06-2021",
@@ -2224,7 +2354,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
-    "Drone Ship": "No Ship Used"
+    "Drone Ship": "No Ship Used",
+    "Drone Ship Type": "No Ship Used"
   },
   {
     "Date": "29-08-2021",
@@ -2241,7 +2372,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "A Shortfall Of Gravitas"
+    "Drone Ship": "A Shortfall Of Gravitas",
+    "Drone Ship Type": "Marmac 302"
   },
   {
     "Date": "14-09-2021",
@@ -2249,7 +2381,7 @@
     "Booster Version": "F9 B5  B1049.10",
     "Dragon Version": "Dragon Not Used",
     "Launch Site": "VAFB SLC-4E",
-    "Mission": "Starlink Group 2-1 v1.5",
+    "Mission": "Starlink�Group 2-1 v1.5",
     "Payload Mass (kg)": 13260,
     "Payload Type": "Starlink",
     "Orbit": "LEO",
@@ -2258,7 +2390,8 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Of Course I Still Love You"
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   },
   {
     "Date": "16-09-2021",
@@ -2275,23 +2408,43 @@
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "Just Read The Instructions"
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   },
   {
     "Date": "11-11-2021",
     "Time (UTC)": "02:03:31",
-    "Booster Version": "F9 B5  B1067.2",
+    "Booster Version": "F9 B5 B1067.2",
     "Dragon Version": "C210.1",
     "Launch Site": "KSC LC-39A",
     "Mission": "Crew-3",
     "Payload Mass (kg)": 13000,
     "Payload Type": "Human Spaceflight",
     "Orbit": "LEO (ISS)",
-    "Customer": "NASA",
+    "Customer": "NASA (CCP)",
     "Customer Type": "Government",
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
-    "Drone Ship": "A Shortfall of Gravitas"
+    "Drone Ship": "A Shortfall Of Gravitas",
+    "Drone Ship Type": "Marmac 302"
+  },
+  {
+    "Date": "13-11-2021",
+    "Time (UTC)": "12:19:00",
+    "Booster Version": "F9 B5 B1058.9",
+    "Dragon Version": null,
+    "Launch Site": "CCSFS SLC-40",
+    "Mission": "Starlink Group 4-1 v1.5",
+    "Payload Mass (kg)": null,
+    "Payload Type": "Starlink",
+    "Orbit": "LEO",
+    "Customer": "SpaceX",
+    "Customer Type": "Business",
+    "Customer Country": "United States of America",
+    "Mission Outcome": "Success",
+    "Landing Outcome": "Success (drone ship)",
+    "Drone Ship": "Just Read The Instructions",
+    "Drone Ship Type": "Marmac 303"
   }
 ]
