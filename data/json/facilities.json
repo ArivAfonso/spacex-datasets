@@ -1,0 +1,32 @@
+[
+  {
+    "city": "Hawthorne",
+    "state": "California",
+    "use": "headquarters, manufacturing",
+    "address": "1 Rocket Road"
+  },
+  {
+    "city": "McGregor",
+    "state": "Texas",
+    "use": "rocket development and testing",
+    "address": "1 Rocket Road"
+  },
+  {
+    "city": "Redmond",
+    "state": "Washington",
+    "use": "satellite development",
+    "address": "22908 NE Alder Crest Dr"
+  },
+  {
+    "city": "Irvine",
+    "state": "California",
+    "use": "satellite communications",
+    "address": "96 Corporate Park"
+  },
+  {
+    "city": "Redmond",
+    "state": "Washington",
+    "use": "sateliite manufacturing",
+    "address": "Building 117 at Redmond Ridge Corporate Center"
+  }
+]

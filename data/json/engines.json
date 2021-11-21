@@ -1,6 +1,25 @@
 [
   {
     "type": "merlin",
+    "version": "1A",
+    "status": "retired",
+    "number": 1,
+    "engine_loss_max": 0,
+    "layout": "single",
+    "propellant_1": "liquid oxygen",
+    "propellant_2": "RP-1 kerosene",
+    "thrust_sea_level/kN": 340,
+    "thrust_sea_level(lbf)": 76000,
+    "thrust_to_weight": null,
+    "thrust_vacuum(kN)": null,
+    "thrust_vacuum(lbf)": null,
+    "chamber_pressure(bar)": null,
+    "chamber_pressure(psi)": null,
+    "weight(kg)": 760,
+    "weight(lb)": 1670
+  },
+  {
+    "type": "merlin",
     "version": "1C",
     "status": "retired",
     "number": 1,
@@ -14,12 +33,14 @@
     "thrust_vacuum(kN)": 480,
     "thrust_vacuum(lbf)": 110000,
     "chamber_pressure(bar)": 67.7,
-    "chamber_pressure(psi)": 982
+    "chamber_pressure(psi)": 982,
+    "weight(kg)": 630,
+    "weight(lb)": 1380
   },
   {
     "type": "merlin",
     "version": "1D+",
-    "status": null,
+    "status": "active",
     "number": 9,
     "engine_loss_max": 2,
     "layout": "octaweb",
@@ -31,12 +52,14 @@
     "thrust_vacuum(kN)": 914,
     "thrust_vacuum(lbf)": 205500,
     "chamber_pressure(bar)": 97,
-    "chamber_pressure(psi)": 1410
+    "chamber_pressure(psi)": 1410,
+    "weight(kg)": 470,
+    "weight(lb)": 1030
   },
   {
     "type": "merlin",
     "version": "1D+",
-    "status": null,
+    "status": "active",
     "number": 27,
     "engine_loss_max": 6,
     "layout": "octaweb",
@@ -48,7 +71,9 @@
     "thrust_vacuum(kN)": 914,
     "thrust_vacuum(lbf)": 205500,
     "chamber_pressure(bar)": 97,
-    "chamber_pressure(psi)": 1410
+    "chamber_pressure(psi)": 1410,
+    "weight(kg)": 470,
+    "weight(lb)": 1030
   },
   {
     "type": "kestrel",
@@ -65,15 +90,17 @@
     "thrust_vacuum(kN)": 28,
     "thrust_vacuum(lbf)": 6000,
     "chamber_pressure(bar)": 9.3,
-    "chamber_pressure(psi)": 135
+    "chamber_pressure(psi)": 135,
+    "weight(kg)": 52,
+    "weight(lb)": 115
   },
   {
     "type": "raptor",
     "version": null,
-    "status": null,
+    "status": "in development",
     "number": 37,
     "engine_loss_max": null,
-    "layout": null,
+    "layout": "unknown",
     "propellant_1": "liquid oxygen",
     "propellant_2": "liquid methane",
     "thrust_sea_level/kN": 1780,
@@ -82,6 +109,46 @@
     "thrust_vacuum(kN)": 1960,
     "thrust_vacuum(lbf)": 440000,
     "chamber_pressure(bar)": 300,
-    "chamber_pressure(psi)": 4800
+    "chamber_pressure(psi)": 4800,
+    "weight(kg)": 1500,
+    "weight(lb)": 3300
+  },
+  {
+    "type": "draco",
+    "version": null,
+    "status": "retired",
+    "number": 16,
+    "engine_loss_max": null,
+    "layout": null,
+    "propellant_1": "dinitrogen tetroxide/monomethylhydrazine",
+    "propellant_2": null,
+    "thrust_sea_level/kN": "unknown",
+    "thrust_sea_level(lbf)": "unknown",
+    "thrust_to_weight": "unknown",
+    "thrust_vacuum(kN)": 0.4,
+    "thrust_vacuum(lbf)": 90,
+    "chamber_pressure(bar)": "unknown",
+    "chamber_pressure(psi)": "unknown",
+    "weight(kg)": "unknown",
+    "weight(lb)": "unknown"
+  },
+  {
+    "type": "draco",
+    "version": "SupeDraco",
+    "status": "active",
+    "number": null,
+    "engine_loss_max": null,
+    "layout": null,
+    "propellant_1": "dinitrogen tetroxide/monomethylhydrazine",
+    "propellant_2": null,
+    "thrust_sea_level/kN": 71,
+    "thrust_sea_level(lbf)": 16000,
+    "thrust_to_weight": "unknown",
+    "thrust_vacuum(kN)": 73,
+    "thrust_vacuum(lbf)": 16400,
+    "chamber_pressure(bar)": 69,
+    "chamber_pressure(psi)": 1000,
+    "weight(kg)": 1338,
+    "weight(lb)": 3060
   }
 ]
