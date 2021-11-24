@@ -1070,7 +1070,7 @@
     "Payload Mass (lb)": 2756,
     "Payload Type": "Demonstration",
     "Payload Manufacturer": "SpaceX",
-    "Orbit": "Heliocentric 0.99–1.67 AU  (close to Mars transfer orbit)",
+    "Orbit": "Heliocentric (close to Mars transfer orbit)",
     "Customer": "SpaceX",
     "Customer Type": "Testing",
     "Customer Country": "United States of America",
@@ -2718,5 +2718,25 @@
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
     "Drone Ship Type": "Marmac 303"
+  },
+  {
+    "Date": "24-11-2021",
+    "Time (UTC)": "06:21:00",
+    "Booster Version": "F9 B5 B1063.3",
+    "Dragon Version": "Dragon Not Used",
+    "Launch Site": "CCSFS SLC-40",
+    "Mission": "DART",
+    "Payload Mass (kg)": 610,
+    "Payload Mass (lb)": 1340,
+    "Payload Type": "Defense",
+    "Payload Manufacturer": "Applied Science Laboratory",
+    "Orbit": "Heliocentric",
+    "Customer": "NASA",
+    "Customer Type": "Government",
+    "Customer Country": "United States of America",
+    "Mission Outcome": "Success",
+    "Landing Outcome": "Success (drone ship)",
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304"
   }
 ]
