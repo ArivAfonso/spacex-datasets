@@ -17,7 +17,8 @@
     "Mission Outcome": "Failure  (in flight)",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Engine failure at T+33 seconds. Loss of vehicle.FalconSAT-2 landed in a storage shed near the launch site."
   },
   {
     "Date": "21-03-2007",
@@ -37,7 +38,8 @@
     "Mission Outcome": "Failure  (in flight)",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Successful first-stage burn and transition to second stage, maximal altitude 289 km. Harmonic oscillation at T+5 minutes. Premature engine shutdown at T+7 min 30 s. Failed to reach orbit."
   },
   {
     "Date": "03-08-2008",
@@ -57,7 +59,8 @@
     "Mission Outcome": "Failure  (in flight)",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Residual stage-1 thrust led to collision between stage 1 and stage 2."
   },
   {
     "Date": "28-09-2008",
@@ -77,7 +80,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Initially scheduled for 23 25 Sep, carried dummy payload mass simulator, 165 kg (originally intended to be RazakSAT)"
   },
   {
     "Date": "14-07-2009",
@@ -97,7 +101,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Malaysian satellite was the only commercial contract launch of Falcon 1."
   },
   {
     "Date": "04-06-2010",
@@ -117,7 +122,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure   (parachute)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "First flight of Falcon 9 v1.0. Used a boilerplate version of Dragon capsule which was not designed to separate from the second stage.(more details below) Attempted to recover the first stage by parachuting it into the ocean, but it burned up on reentry, before the parachutes even go to deploy."
   },
   {
     "Date": "08-12-2010",
@@ -125,7 +131,7 @@
     "Booster Version": "F9 v1.0  B0004",
     "Dragon Version": "C101",
     "Launch Site": "CCAFS LC-40",
-    "Mission": "Dragon demo flight C1, two CubeSats,  barrel of Brouère cheese",
+    "Mission": "Dragon demo flight C1, two CubeSats, barrel of Brouère cheese",
     "Payload Mass (kg)": null,
     "Payload Mass (lb)": null,
     "Payload Type": "Demonstration",
@@ -137,7 +143,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure   (parachute)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Maiden flight of SpaceX's Dragon capsule, consisting of over 3 hours of testing thruster maneuvering and then reentry. Attempted to recover the first stage by parachuting it into the ocean, but it disintegrated upon reentry, again before the parachutes were deployed. (more details below) It also included two CubeSats, and a wheel of Brouère cheese. Before the launch, SpaceX discovered that there was a crack in the nozzle of the 2nd stage's Merlin vacuum engine. So Elon just had them cut off the end of the nozzle with a pair of shears and launched the rocket a few days later. After SpaceX had trimmed the nozzle, NASA was notified of the change and they agreed to it."
   },
   {
     "Date": "22-05-2012",
@@ -157,7 +164,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "The Dragon spacecraft demonstrated a series of tests before it was allowed to approach the International Space Station. Two days later, it became the first commercial spacecraft to board the ISS. (more details below)"
   },
   {
     "Date": "08-10-2012",
@@ -177,7 +185,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "CRS-1 was successful, but the secondary payload was inserted into an abnormally low orbit and subsequently lost. This was due to one of the nine Merlin engines shutting down during the launch, and NASA declining a second reignition, as per ISS visiting vehicle safety rules, the primary payload owner is contractually allowed to decline a second reignition. NASA stated that this was because SpaceX could not guarantee a high enough likelihood of the second stage completing the second burn successfully which was required to avoid any risk of secondary payload's collision with the ISS."
   },
   {
     "Date": "01-03-2013",
@@ -197,7 +206,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Last launch of the original Falcon 9 v1.0 launch vehicle, first use of the unpressurized trunk section of Dragon."
   },
   {
     "Date": "29-09-2013",
@@ -217,7 +227,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Uncontrolled (ocean)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "First commercial mission with a private customer, first launch from Vandenberg, and demonstration flight of Falcon 9 v1.1 with an improved 13-tonne to LEO capacity. After separation from the second stage carrying Canadian commercial and scientific satellites, the first stage booster performed a controlled reentry, and an ocean touchdown test for the first time. This provided good test data, even though the booster started rolling as it neared the ocean, leading to the shutdown of the central engine as the roll depleted it of fuel, resulting in a hard impact with the ocean. This was the first known attempt of a rocket engine being lit to perform a supersonic retro propulsion, and allowed SpaceX to enter a public-private partnership with NASA and its Mars entry, descent, and landing technologies research projects. (more details below)"
   },
   {
     "Date": "03-12-2013",
@@ -237,7 +248,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "First Geostationary transfer orbit (GTO) launch for Falcon 9, and first successful reignition of the second stage. SES-8 was inserted into a Super-Synchronous Transfer Orbit of 79,341 km (49,300 mi) in apogee with an inclination of 20.55  to the equator."
   },
   {
     "Date": "06-01-2014",
@@ -257,7 +269,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "The Thai communication satellite was the second GTO launch for Falcon 9. The USAF evaluated launch data from this flight as part of a separate certification program for SpaceX to qualify to fly military payloads, but found that the launch had \"unacceptable fuel reserves at engine cutoff of the stage 2 second burnoff\". Thaicom-6 was inserted into a Super-Synchronous Transfer Orbit of 90,039 km (55,948 mi) in apogee with an inclination of 22.46  to the equator."
   },
   {
     "Date": "18-04-2014",
@@ -277,7 +290,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Controlled (ocean)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Following second-stage separation, SpaceX conducted a second controlled-descent test of the discarded booster vehicle and achieved the first successful controlled ocean touchdown of a liquid-rocket-engine orbital booster. Following the soft touchdown, the first stage tipped over as expected and was destroyed. This was the first Falcon 9 booster to fly with extensible landing legs and the first Dragon mission with the Falcon 9 v1.1 launch vehicle. This flight also launched the ELaNa 5 mission for NASA as a secondary payload."
   },
   {
     "Date": "14-07-2014",
@@ -297,7 +311,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Controlled (ocean)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Payload included six satellites weighing 172 kg (379 lb) each and two 142 kg (313 lb) mass simulators. Equipped for the second time with landing legs, the first-stage booster successfully conducted a controlled-descent test consisting of a burn for deceleration from hypersonic velocity in the upper atmosphere, a reentry burn, and a final landing burn before soft-landing on the ocean surface."
   },
   {
     "Date": "05-08-2014",
@@ -317,7 +332,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "First time SpaceX managed a launch site turnaround between two flights of under a month (22 days). GTO launch of the large communication satellite from Hong Kong did not allow for propulsive return-over-water and controlled splashdown of the first stage."
   },
   {
     "Date": "07-09-2014",
@@ -337,7 +353,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Launch was delayed for two weeks for additional verifications after a malfunction observed in the development of the F9R Dev1 prototype. GTO launch of the heavy payload did not allow for controlled splashdown."
   },
   {
     "Date": "21-09-2014",
@@ -357,7 +374,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Uncontrolled (ocean)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Fourth attempt of a soft ocean touchdown, but the booster ran out of liquid oxygen. Detailed thermal imaging infrared sensor data was collected however by NASA, as part of a joint arrangement with SpaceX as part of research on retropropulsive deceleration technologies for developing new approaches to Martian atmospheric entry."
   },
   {
     "Date": "10-01-2015",
@@ -377,7 +395,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure  (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 300"
+    "Drone Ship Type": "Marmac 300",
+    "Notes": "Following second-stage separation, SpaceX attempted to return the first stage for the first time to a 90 m × 50 m (300 ft × 160 ft) floating platform    called the autonomous spaceport drone ship. The test achieved many objectives and returned a large amount of data, but the grid-fin control surfaces used for the first time for more precise reentry positioning ran out of hydraulic fluid for its control system a minute before landing, resulting in a landing crash."
   },
   {
     "Date": "11-02-2015",
@@ -390,14 +409,15 @@
     "Payload Mass (lb)": 1257,
     "Payload Type": "Weather Satellite",
     "Payload Manufacturer": "NASA",
-    "Orbit": "Sun–Earth L1",
+    "Orbit": "SSO",
     "Customer": "U.S. Air Force NASA NOAA",
     "Customer Type": "Government",
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "Controlled (ocean)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "First launch under USAF's OSP 3 launch contract. First SpaceX launch to put a satellite beyond a geostationary transfer orbit, first SpaceX launch into interplanetary space, and first SpaceX launch of an American research satellite. The first stage made a test flight descent to an over-ocean landing within 10 m (33 ft) of its intended target. The satellite launched into a 187 km x 1,241,000 km insertion orbit toward the Sun-Earth L1 point."
   },
   {
     "Date": "02-03-2015",
@@ -417,7 +437,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "The launch was Boeing's first conjoined launch of a lighter-weight dual-commsat stack that was specifically designed to take advantage of the lower-cost SpaceX Falcon 9 launch vehicle. Per satellite, launch costs were less than US$30 million. The ABS satellite reached its final destination ahead of schedule and started operations on 10 September 2015."
   },
   {
     "Date": "14-04-2015",
@@ -437,7 +458,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure  (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 300"
+    "Drone Ship Type": "Marmac 300",
+    "Notes": "After second-stage separation, a controlled-descent test was attempted with the first stage. After the booster contacted the ship, it tipped over due to excess lateral velocity caused by a stuck throttle valve that delayed downthrottle at the correct time."
   },
   {
     "Date": "27-04-2015",
@@ -445,7 +467,7 @@
     "Booster Version": "F9 v1.1 B1016",
     "Dragon Version": "Dragon Not Used",
     "Launch Site": "CCAFS LC-40",
-    "Mission": "TurkmenAlem 52�E / MonacoSAT",
+    "Mission": "TurkmenAlem 52 E / MonacoSAT",
     "Payload Mass (kg)": "4,707",
     "Payload Mass (lb)": 10379,
     "Payload Type": "Communication Satellite",
@@ -457,7 +479,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Original intended launch was delayed over a month after an issue with the helium pressurisation system was identified on similar parts in the assembly plant. Subsequent launch successfully positioned this first Turkmen satellite at 52.0  east."
   },
   {
     "Date": "28-06-2015",
@@ -477,7 +500,8 @@
     "Mission Outcome": "Failure  (in flight)",
     "Landing Outcome": "Precluded  (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Launch performance was nominal until an overpressure incident in the second-stage LOX tank, leading to vehicle breakup at T+150 seconds. Dragon capsule survived the explosion but was lost upon splashdown as its software did not contain provisions for parachute deployment on launch vehicle failure.(more details below) The drone ship Of Course I Still Love You was towed out to sea to prepare for a landing test so this mission was its first operational assignment."
   },
   {
     "Date": "22-12-2015",
@@ -497,7 +521,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success  (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Payload included eleven satellites weighing 172 kg (379 lb) each, and a 142 kg (313 lb) mass simulator. First launch of the upgraded v1.1 version, with a 30% power increase. Orbcomm had originally agreed to be the third flight of the enhanced-thrust rocket, but the change to the maiden flight position was announced in October 2015. SpaceX received a permit from the FAA to land the booster on solid ground at Cape Canaveral and succeeded for the first time. This booster, serial number B1019, is now on permanent display outside SpaceX's headquarters in Hawthorne, California, at the intersection of Crenshaw Boulevard and Jack Northrop Avenue. (more details below)"
   },
   {
     "Date": "17-01-2016",
@@ -517,7 +542,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "First launch of NASA and NOAA joint science mission under the NLS II launch contract (not related to NASA CRS or USAF OSP3 contracts) and last launch of the Falcon 9 v1.1 launch vehicle. The Jason-3 satellite was successfully deployed to target orbit.  SpaceX attempted for the first time to recover the first-stage booster on its new Pacific autonomous drone ship, but after a soft landing on the ship, the lockout on one of the landing legs failed to latch and the booster fell over and exploded."
   },
   {
     "Date": "04-03-2016",
@@ -537,7 +563,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Second launch of the enhanced Falcon 9 Full Thrust launch vehicle. SpaceX attempted for the first time to recover a booster from a GTO launch to a drone ship. Successful landing was not expected due to low fuel reserves and the booster \"landed hard\". But the controlled-descent, atmospheric re-entry and navigation to the drone ship were successful and returned significant test data on bringing back high-energy Falcon 9 boosters."
   },
   {
     "Date": "08-04-2016",
@@ -557,7 +584,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success  (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Dragon carried over 1,500 kg (3,300 lb) of supplies and delivered the inflatable Bigelow Expandable Activity Module (BEAM) to the ISS for two years of in-orbit tests. The rocket's first stage landed smoothly on SpaceX's autonomous spaceport drone ship at 9 minutes after liftoff, making this the first successful landing of a rocket booster on a ship at sea from an orbital launch. The first stage B1021 later became the first orbital booster to be reused when it launched SES-10 on 30 March 2017. A month later, the Dragon spacecraft returned a downmass containing astronaut's Scott Kelly biological samples from his year-long mission on ISS.(more details below)"
   },
   {
     "Date": "06-05-2016",
@@ -577,7 +605,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First time SpaceX launched a Japanese satellite, and first time a booster landed successfully after launching a payload into a GTO. As this flight profile has a smaller margin for the booster recovery, the first stage re-entered Earth's atmosphere faster than for previous landings, with five times the heating power."
   },
   {
     "Date": "27-05-2016",
@@ -597,7 +626,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success  (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Second successful return from a GTO launch, after launching Thaicom 8 towards 78.5  east. Later became the first booster to be reflown after being recovered from a GTO launch. THAICOM 8 was delivered to a Super-Synchronous Transfer Orbit of 91,000 km (57,000 mi)."
   },
   {
     "Date": "15-06-2016",
@@ -617,7 +647,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure  (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "One year after pioneering this technique on Flight 16, Falcon again launched two Boeing 702SP gridded ion thruster satellites at 1,800 kg (4,000 lb) each, in a dual-stack configuration, with the two customers sharing the rocket and mission costs. First-stage landing attempt on drone ship failed due to low thrust on one of the three landing engines; a sub-optimal path led to the stage running out of propellant just above the deck of the landing ship, slamming to the drone ship, breaking a leg, and falling over."
   },
   {
     "Date": "18-07-2016",
@@ -637,7 +668,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Cargo to ISS included an International Docking Adapter (IDA-2) and total payload with reusable Dragon Capsule was 6,457 kg (14,235 lb). Second successful first-stage landing on a ground pad."
   },
   {
     "Date": "14-08-2016",
@@ -657,7 +689,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First attempt to land from a ballistic trajectory using a single-engine landing burn, as all previous landings from a ballistic trajectory had fired three engines on the final burn. The latter provides more braking force but subjects the vehicle to greater structural stresses, while the single-engine landing burn takes more time and fuel while allowing more time during final descent for corrections."
   },
   {
     "Date": "14-01-2017",
@@ -677,7 +710,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success  (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Return-to-flight mission after the loss of Amos-6 in September 2016. This was the first launch of a series of Iridium NEXT satellites intended to replace the original Iridium constellation launched in the late 1990s. Each Falcon 9 mission carried 10 satellites, with a goal of 66 plus 9 spare satellites constellation by mid-2018. Following the delayed launch of the first two Iridium units with a Dnepr rocket from April 2016, Iridium Communications decided to launch the first batch of 10 satellites with SpaceX instead. Payload comprised ten satellites weighing 860 kg (1,900 lb) each plus a 1,000 kg (2,200 lb) dispenser."
   },
   {
     "Date": "19-02-2017",
@@ -697,7 +731,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "First Falcon 9 flight from the historic LC-39A launchpad at Kennedy Space Center, and first uncrewed launch from LC-39A since Skylab-1. The flight carried supplies and materials to support ISS Expeditions 50 and 51, and third return of first stage booster to landing pad at Cape Canaveral Landing Zone 1."
   },
   {
     "Date": "16-03-2017",
@@ -717,7 +752,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "First uncrewed non-station launch from LC-39A since Apollo 6. Launched a communications satellite for broadcast services over Brazil. Due to the payload size launch into a GTO, the booster was expended into the Atlantic Ocean and did not feature landing legs and grid fins."
   },
   {
     "Date": "30-03-2017",
@@ -737,7 +773,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First payload to fly on a reused first stage, B1021, previously launched with CRS-8, and first to land intact a second time. Additionally, this flight was the first reused rocket to fly from LC-39A since STS-135 and for the first time the payload fairing, used to protect the payload during launch, remained intact after a successful splashdown achieved with thrusters and a steerable parachute.(more details below)"
   },
   {
     "Date": "01-05-2017",
@@ -757,7 +794,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "First launch under SpaceX's 2015 certification for national security space missions, which allowed SpaceX to contract launch services for classified payloads, and thus breaking the monopoly United Launch Alliance (ULA) held on classified launches since 2006. For the first time, SpaceX offered continuous livestream of first stage booster from liftoff to landing, but omitted second-stage speed and altitude telemetry."
   },
   {
     "Date": "15-05-2017",
@@ -777,7 +815,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "The launch was originally scheduled for the Falcon Heavy, but performance improvements allowed the mission to be carried out by an expendable Falcon 9 instead.  Inmarsat-5 F4 is Inmarsat's \"largest and most complicated communications satellite ever built\". Inmarsat 5 F4 was delivered into an arcing \"supersynchronous\" transfer orbit of 381 km × 68,839 km (237 mi × 42,775 mi) in altitude, tilted 24.5  to the equator."
   },
   {
     "Date": "03-06-2017",
@@ -797,7 +836,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "This mission delivered Neutron Star Interior Composition Explorer (NICER), Multiple User System for Earth Sensing Facility (MUSES), Roll Out Solar Array (ROSA), an Advanced Plant Habitat to the ISS, and Birds-1 payloads. This mission launched for the first time a refurbished Dragon capsule, serial number C106, which had flown in September 2014 on the SpaceX CRS-4 mission, and was the first time since 2011 a reused spacecraft arrived at the ISS. Five cubesats were included in the payload, the first satellites from the countries of Bangladesh (BRAC Onnesha), Ghana (GhanaSat-1), and Mongolia (Mazaalai)."
   },
   {
     "Date": "23-06-2017",
@@ -817,7 +857,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Second time a booster was reused, as B1029 had flown the Iridium mission in January 2017. This was the first commercial Bulgarian-owned communications satellite."
   },
   {
     "Date": "25-06-2017",
@@ -837,7 +878,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Second Iridium constellation launch of 10 satellites, and first flight using titanium (instead of aluminium) grid fins to improve control authority and better cope with heat during re-entry."
   },
   {
     "Date": "05-07-2017",
@@ -857,7 +899,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Originally expected to be flown on a Falcon Heavy, improvements to the Merlin engines meant that the heavy satellite could be flown to GTO in an expendable configuration of Falcon 9. The rocket achieved a supersynchronous orbit peaking at 43,000 km (27,000 mi), exceeding the minimum requirements of 28,000 km (17,000 mi). Intelsat 35e is the largest Intelsat's currently active satellite."
   },
   {
     "Date": "14-08-2017",
@@ -877,7 +920,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Dragon carried 2,349 kg (5,179 lb) of pressurized and 961 kg (2,119 lb) unpressurized mass, including the Cosmic Ray Energetics and Mass Experiment (CREAM) detector. First flight of the upgrade known informally as \"Block 4\", which increases thrust from the main engines and includes other small upgrades, and last flight of a newly built Dragon capsule, as further missions are planned to use refurbished spacecraft. Also launched the Educational Launch of Nanosatellites ELaNa 22 mission."
   },
   {
     "Date": "24-08-2017",
@@ -897,7 +941,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "First Earth observation satellite developed and constructed by Taiwan. The payload was much under the rocket's specifications, as the Spaceflight Industries SHERPA space tug had been removed from the cargo manifest of this mission, leading to analyst speculations that with discounts due to delays, SpaceX lost money on the launch."
   },
   {
     "Date": "07-09-2017",
@@ -917,7 +962,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Due to the classified nature of the mission, the second-stage speed and altitude telemetry were omitted from the launch webcast. Notably, the primary contractor, Boeing, had launched the X-37B with ULA, a Boeing partnership and a SpaceX competitor. Second flight of the Falcon 9 Block 4 upgrade."
   },
   {
     "Date": "09-10-2017",
@@ -937,7 +983,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Third flight of the Falcon 9 Block 4 upgrade, and the third launch of 10 Iridium NEXT satellites."
   },
   {
     "Date": "11-10-2017",
@@ -957,7 +1004,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Third reuse and recovery of a previously flown first-stage booster, and the second time the contractor SES used a reflown booster. The large satellite is shared, in \"CondoSat\" arrangement between SES and EchoStar."
   },
   {
     "Date": "30-10-2017",
@@ -977,7 +1025,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First SpaceX launch of a South Korean satellite, placed in GEO at 113.0  east. It was the third launch and land for SpaceX in three weeks, and the 15th successful landing in a row. A small fire was observed under the booster after it landed, leading to speculations about damages to the engines which would preclude it from flying it again."
   },
   {
     "Date": "15-12-2017",
@@ -997,7 +1046,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "First launch to take place at the refurbished pad at Cape Canaveral after the 2016 Amos-6 explosion, and the 20th successful booster landing. Being the second reuse of a Dragon capsule (previously flown on SpaceX CRS-6) and fourth reuse of a booster (previously flown on SpaceX CRS-11) it was the first time both major components were reused on the same flight."
   },
   {
     "Date": "23-12-2017",
@@ -1017,7 +1067,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Controlled (ocean)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "In order to avoid delays and convinced of no increased risks, Iridium Communications accepted the use of a recovered booster for its 10 satellites, and became the first customer to fly the same first-stage booster twice (from the second Iridium NEXT mission). SpaceX chose not to attempt recovery of the booster, but did perform a soft ocean touchdown. The launch occurred during sunset, which caused a twilight effect where sunlight reflected from the rocket plumes at high altitude, causing \"jaw-dropping views\" across Southern California and surrounding regions."
   },
   {
     "Date": "08-01-2018",
@@ -1034,10 +1085,11 @@
     "Customer": "Northrop Grumman",
     "Customer Type": "Business",
     "Customer Country": "United States of America",
-    "Mission Outcome": "Success  (payload�status unclear)",
+    "Mission Outcome": "Success  (payload status unclear)",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "The mission had been postponed by nearly two months. Following a nominal launch, the recovery of the first-stage booster marked the 17th successful recovery in a row. Rumors appeared that the payload was lost, as the satellite might have failed to separate from the second stage due to a fault in the Northrop Grumman-manufactured payload adapter, to which SpaceX announced that their rocket performed nominally. The classified nature of the mission means that there is little confirmed information.(more details below)"
   },
   {
     "Date": "31-01-2018",
@@ -1057,7 +1109,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Controlled (ocean)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Reused booster from the classified NROL-76 mission in May 2017. Following a successful experimental soft ocean landing that used three engines, the booster unexpectedly remained intact. Recovery was talked about and a Craigslist ad believed to be made by Elon Musk jokingly said the booster was for sale at US$9.9 million if the buyer brought their own tugboat. Despite this, recovery was not attempted, and the booster was subsequently destroyed. GovSat-1 satellite was put into a high-energy Supersynchronous Transfer Orbit of 250 km × 51,500 km (160 mi × 32,000 mi)."
   },
   {
     "Date": "06-02-2018",
@@ -1077,7 +1130,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad), Failure (drone ship), Success (ground pad)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Maiden flight of Falcon Heavy, using two recovered Falcon 9 cores as side boosters (from the Thaicom 8 and SpaceX CRS-9 missions), as well as a modified Block 3 booster reinforced to endure the additional load from the two side boosters. The static fire test, held on 24 January 2018, was the first time 27 engines were tested together. The launch was a success, and the side boosters landed simultaneously at adjacent ground pads. Drone ship landing of the central core failed due to TEA  TEB chemical igniter running out, preventing two of its engines from restarting; the landing failure caused damage to the nearby drone ship. Final burn to heliocentric Earth-Mars orbit was performed after the second stage and payload cruised for 6 hours through the Van Allen radiation belts. Later, Elon Musk tweeted that the third burn was successful, and JPL Horizons On-Line Ephemeris System showed the second stage and payload in an orbit with an aphelion of 1.67 AU. The live webcast proved immensely popular, as it became the second most watched livestream so far on YouTube, reaching over 2.3 million concurrent views. Over 100,000 visitors are believed to have come to the Space Coast to watch the launch in person.(more details below)"
   },
   {
     "Date": "22-02-2018",
@@ -1097,7 +1151,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Last flight of a Block 3 first stage. Reused the booster from the Formosat-5 mission. Paz (peace) is Spain's first spy satellite that will be operated in a constellation with the German SAR fleet TSX and TDX. In addition, the rocket carried two SpaceX test satellites for their forthcoming communications network in low Earth orbit. This core flew without landing legs and was expended at sea. It also featured an upgraded payload fairing 2.0 with a first recovery attempt using the Mr. Steven crew boat equipped with a net. The fairing narrowly missed the boat, but achieved a soft water landing."
   },
   {
     "Date": "06-03-2018",
@@ -1117,7 +1172,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "The Spanish commsat was the largest satellite flown by SpaceX as of March 2018, \"nearly the size of a bus\". A drone ship landing was planned, but scrapped due to unfavorable weather conditions. SpaceX left the landing legs and titanium grid fins in place to prevent further delays, after previous concerns with the fairing pressurization and conflicts with the launch of GOES-S. The Hispasat 30W-6 satellite was propelled into a supersynchronous transfer orbit."
   },
   {
     "Date": "30-03-2018",
@@ -1137,7 +1193,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Fifth Iridium NEXT mission launch of 10 satellites used the refurbished booster from third Iridium flight. As with recent reflown boosters, SpaceX used the controlled descent of the first stage to test more booster recovery options. SpaceX planned a second recovery attempt of one half of the fairing using the specially modified boat Mr. Steven, but the parafoil twisted, which led to the fairing half missing the boat."
   },
   {
     "Date": "02-04-2018",
@@ -1157,7 +1214,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "The launch used a refurbished booster (from CRS-12) and a refurbished capsule (C110 from CRS-8). External payloads include a materials research platform Materials International Space Station Experiment (MISSE-FF) phase 3 of the Robotic Refueling Mission (RRM) TSIS, ASIM heliophysics sensor, several crystallization experiments, and the RemoveDEBRIS system aimed at space debris removal. The booster was expended, and SpaceX collected more data on reentry profiles. It also carried the first Costa Rican satellite, Project Irazú, and the first Kenyan satellite, 1KUNS-PF."
   },
   {
     "Date": "18-04-2018",
@@ -1177,7 +1235,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First NASA high-priority science mission launched by SpaceX. Part of the Explorers program, TESS is space telescope intended for wide-field search of exoplanets transiting nearby stars. It was the first time SpaceX launched a scientific satellite which wasn't designed to focus on Earth observations. The second stage placed the spacecraft into a high elliptical Earth orbit, after which the satellite performed its own maneuvers, including a lunar flyby, such that over the course of two months it reached a stable 2:1 resonant orbit with the Moon. In January 2018, SpaceX received NASA's Launch Services Program Category 2 certification of its Falcon 9 \"Full Thrust\", certification which is required for launching \"medium-risk\" missions like TESS. Last launch of a new Block 4 booster, and the 24th successful recovery of the first stage. An experimental water landing of the launch fairing was performed in order to attempt fairing recovery, primarily as a test of parachute systems."
   },
   {
     "Date": "11-05-2018",
@@ -1197,7 +1256,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First Block 5 launch vehicle booster to fly. Initially planned for an Ariane 5 launch in December 2017, it became the first Bangladeshi commercial satellite, BRAC Onnesha is a cubesat built by Thales Alenia Space. It is intended to serve telecom services from 119.0  east with a lifetime of 15 years. It was the 25th successfully recovered first stage booster."
   },
   {
     "Date": "22-05-2018",
@@ -1211,13 +1271,14 @@
     "Payload Type": "Communication Satellite",
     "Payload Manufacturer": "Oribital ATK",
     "Orbit": "Polar LEO",
-    "Customer": "Iridium Communications GFZ • NASA",
+    "Customer": "Iridium Communications GFZ    NASA",
     "Customer Type": "Business",
     "Customer Country": "United States of America",
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Sixth Iridium NEXT mission launching 5 satellites used the refurbished booster from Zuma. GFZ arranged a rideshare of GRACE-FO on a Falcon 9 with Iridium following the cancellation of their Dnepr launch contract in 2015. Iridium CEO Matt Desch disclosed in September 2017 that GRACE-FO would be launched on this mission. The booster reuse turnaround was a record 4.5 months between flights."
   },
   {
     "Date": "04-06-2018",
@@ -1237,7 +1298,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "The communications satellite serving the Middle East and the Asia-Pacific region at the same place as SES-8, and was the largest satellite built for SES. The Block 4 first stage was expended, while the second stage was a Block 5 version, delivering more power towards a higher supersynchronous transfer orbit with 58,000 km (36,000 mi) apogee."
   },
   {
     "Date": "29-06-2018",
@@ -1257,7 +1319,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Payload included MISSE-FF 2, ECOSTRESS, a Latching End Effector, and Birds-2 payloads. The refurbished booster featured a record 2.5 months period turnaround from its original launch of TESS, a record held until February 2020 with the Starlink L4 mission. The fastest previous was 4.5 months. This was the last flight of a Block 4 booster, which was expended into the Atlantic Ocean without landing legs and grid fins."
   },
   {
     "Date": "22-07-2018",
@@ -1277,7 +1340,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "SSL-manufactured communications satellite intended to be placed at 63.0  west over the Americas, replacing Telstar 14R. At 7,075 kg (15,598 lb), it became the heaviest commercial communications satellite so far launched. This necessitated that the satellite be launched into a lower-energy orbit than a usual GTO, with its initial apogee at roughly 17,900 km (11,100 mi)."
   },
   {
     "Date": "25-07-2018",
@@ -1297,7 +1361,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Seventh Iridium NEXT launch, with 10 communication satellites. The booster landed safely on the drone ship in the worst weather conditions for any landing yet attempted. Mr. Steven boat with an upgraded 4x size net was used to attempt fairing recovery but failed due to harsh weather."
   },
   {
     "Date": "07-08-2018",
@@ -1317,7 +1382,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Indonesian comsat intended to replace the aging Telkom 1 at 108.0  East. First reflight of a Block 5-version booster."
   },
   {
     "Date": "10-09-2018",
@@ -1337,7 +1403,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Condosat for 138.0  East over Asia and Pacific. Delivered to a GTO orbit with apogee close to 18,000 km (11,000 mi)."
   },
   {
     "Date": "08-10-2018",
@@ -1357,7 +1424,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Argentinian Earth-observation satellite was originally intended to be launched in 2012. First landing on the West Coast ground pad."
   },
   {
     "Date": "15-11-2018",
@@ -1377,7 +1445,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Qatari comsat positioned at 26.0  east. This launch used redesigned COPVs. This was to meet NASA safety requirements for commercial crew missions, in response to the September 2016 pad explosion."
   },
   {
     "Date": "03-12-2018",
@@ -1397,7 +1466,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Rideshare mission where two SHERPA dispensers deployed 64 small satellites, including Eu:CROPIS for the German DLR, HIBER-2 for the Dutch Hiber Global, ITASAT-1 for the Brazilian Instituto Tecnológico de Aeronáutica, two high-resolution SkySat imaging satellites for Planet Labs, and two high school CubeSats part of NASA's ELaNa 24. This was the first time a booster was used for a third flight."
   },
   {
     "Date": "05-12-2018",
@@ -1417,7 +1487,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "First CRS mission with the Falcon 9 Block 5. This carried the Global Ecosystem Dynamics Investigation lidar (GEDI) as an external payload. The mission was delayed by one day due to moldy rodent food for one of the experiments on the Space Station. A previously flown Dragon spacecraft was used for the mission. The booster, in use for the first time, experienced a grid fin hydraulic pump stall on reentry, which caused it to spin out of control and touchdown at sea, heavily damaging the interstage section; this was the first failed landing targeted for a ground pad."
   },
   {
     "Date": "23-12-2018",
@@ -1437,7 +1508,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Initially planned for a Delta IV launch, this was SpaceX's first launch of an EELV-class payload. There was no attempt to recover the first-stage booster for reuse due to the customer's requirements, including a high inclination orbit of 55.0 . Nicknamed Vespucci, the USAF marked the satellite operational on 1 January 2020 under the label SVN 74."
   },
   {
     "Date": "11-01-2019",
@@ -1457,7 +1529,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Final launch of the Iridium NEXT contract, launching 10 satellites."
   },
   {
     "Date": "22-02-2019",
@@ -1477,7 +1550,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Nusantara Satu is a private Indonesian comsat planned to be located at 146.0  east, with a launch mass of 4,100 kg (9,000 lb), and featuring electric propulsion for orbit-raising and station-keeping. S5, a 60-kg smallsat by the Air Force Research Laboratory (AFRL), was piggybacked on Nusantara Satu, and was deployed near its GEO position to perform a classified space situational awareness mission. This launch opportunity was brokered by Spaceflight Industries as \"GTO-1\". The Beresheet Moon lander (initially called Sparrow) was one of the candidates for the Google Lunar X-Prize, whose developers SpaceIL had secured a launch contract with Spaceflight Industries in October 2015. Its launch mass was 585 kg (1,290 lb) including fuel. After separating into a supersynchronous transfer orbit with an apogee of 69,400 km (43,100 mi), Beresheet raised its orbit by its own power over two months and flew to the Moon. After successfully getting into lunar orbit, Beresheet attempted to land on the Moon on 11 April 2019 but failed."
   },
   {
     "Date": "02-03-2019",
@@ -1497,7 +1571,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First flight of the SpaceX Crew Dragon. This was the first demonstration flight for the NASA Commercial Crew Program which awarded SpaceX a contract in September 2014 with flights hoped as early as 2015. The Dragon performed an autonomous docking to the ISS 27 hours after launch with the hatch being opened roughly 2 hours later. The vehicle spent nearly a week docked to the ISS to test critical functions. It undocked roughly a week later on 8 March 2019 and splashed down six hours later at 13:45. The Dragon used on this flight was scheduled to fly on the inflight abort test in mid-2019 but was destroyed during testing. The booster B1051.1 replaced B1050 and flew again on 12 June 2019."
   },
   {
     "Date": "11-04-2019",
@@ -1517,7 +1592,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship), Success (ground pad), Success (ground pad",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Second flight of Falcon Heavy, the first commercial flight, and the first one using Block 5 boosters. SpaceX successfully landed the side boosters at Landing Zone 1 and LZ 2 and reused the side boosters later for the STP-2 mission. The central core landed on drone ship Of Course I Still Love You, located 967 km (601 mi) downrange, the furthest successful sea landing so far. Despite the successful landing, due to rough seas and the fact that the Octagrabber had not been configured to grab the central core of a Falcon Heavy, the central core was unable to be secured to the deck for recovery and later tipped overboard in transit. SpaceX has since developed new attachment fixtures for the Octagrabber so this problem won't happen again. SpaceX recovered the fairing from this launch and later reused it in the November 2019 Starlink launch. Arabsat-6A, a 6,465 kg (14,253 lb) Saudi satellite, is the most advanced commercial communications satellite so far built by Lockheed Martin. The Falcon Heavy delivered the Arabsat-6A into a supersynchronous transfer orbit with 90,000 km (56,000 mi) apogee with an inclination of 23.0  to the equator."
   },
   {
     "Date": "04-05-2019",
@@ -1537,7 +1613,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drop ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "A Commercial Resupply Service mission to the International Space Station carrying nearly 2.5 tons of cargo including the Orbiting Carbon Observatory-3 as an external payload. Originally planned to land at Landing Zone 1, the landing was moved to the drone ship after a Dragon 2 had an anomaly during testing at LZ-1."
   },
   {
     "Date": "24-05-2019",
@@ -1557,7 +1634,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drop ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Following the launch of the two Tintin test satellites, this was the first full-scale test launch of the Starlink constellation, launching \"production design\" satellites. Each Starlink satellite has a mass of 227 kg (500 lb), and the combined launch mass was 13,620 kg (30,030 lb) the heaviest payload launched by SpaceX at that time. The fairings were recovered and reused for Starlink L5 in March 2020. These are the first commercial satellites to use krypton as fuel for their ion thrusters, which is cheaper than the usual xenon fuel."
   },
   {
     "Date": "12-06-2019",
@@ -1577,7 +1655,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drop ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "A trio of satellites built for Canada's RADARSAT program were launched that plan to replace the aging Radarsat-1 and Radarsat-2. The new satellites contain Automated Identification System (AIS) for locating ships and provide the world's most advanced, comprehensive method of maintaining Arctic sovereignty, conducting coastal surveillance, and ensuring maritime security. The mission was originally scheduled to lift off in February but due to the landing failure of booster B1050, this flight was switched to B1051 (used on Crew Dragon Demo-1) and delayed to allow refurbishment and transport to the West coast. The booster landed safely through fog. A payload cost of roughly US$1 billion made this SpaceX's second most expensive payload launched and most valuable commercial payload so far put into orbit."
   },
   {
     "Date": "25-06-2019",
@@ -1585,7 +1664,7 @@
     "Booster Version": "B1052.2 (side), Heavy core B1052.2, B1053.2 (side)",
     "Dragon Version": "Dragon Not Used",
     "Launch Site": "KSC LC-39A",
-    "Mission": "Space Test Program�Flight 2",
+    "Mission": "Space Test Program Flight 2",
     "Payload Mass (kg)": 3700,
     "Payload Mass (lb)": 8159,
     "Payload Type": "Rideshare",
@@ -1597,7 +1676,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (drone ship), Success (ground pad), Success (ground pad)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "USAF Space Test Program Flight 2 (STP-2) carried 24 small satellites, including: FormoSat-7 A/B/C/D/E/F integrated using EELV Secondary Payload Adapter, DSX, Prox-1 GPIM, DSAC, ISAT, SET, COSMIC-2, Oculus-ASR, OBT, NPSat, and several CubeSats including E-TBEx, LightSail 2, TEPCE, PSAT, and three ELaNa 15 CubeSats. Total payload mass was 3,700 kg (8,200 lb). The mission lasted six hours during which the second stage ignited four times and went into different orbits to deploy satellites including a \"propulsive passivation maneuver\". Third flight of Falcon Heavy. The side boosters from the Arabsat-6A mission just 2.5 months before were reused on this flight and successfully returned to LZ-1 and LZ-2. The center core, in use for the first time, underwent the most energetic reentry attempted by SpaceX, and attempted a landing over 1,200 km (750 mi) downrange, 30% further than any previous landing. This core suffered a thrust vector control failure in the center engine caused by a breach in the engine bay due to the extreme heat. The core thus failed its landing attempt on the drone ship Of Course I Still Love You due to lack of control when the outer engines shut down. For the first time, one fairing half was successfully landed on the catch-net of the support ship GO Ms. Tree (formerly Mr. Steven)."
   },
   {
     "Date": "25-07-2019",
@@ -1617,7 +1697,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "This launch carried nearly 9,000 individual unique payloads including over one ton of science experiments, the most so far launched on a SpaceX Dragon. The third International Docking Adapter (IDA-3), a replacement for the first IDA lost during the CRS-7 launch anomaly, was one of the external payloads on this mission. Along with food and science, the Dragon also carried the ELaNa 27 RFTSat CubeSat and MakerSat-1 which will be used to demonstrate microgravity additive manufacturing. The satellite is expected to be launched by a Cygnus dispenser later in July 2019. The booster used on this flight was the same used on CRS-17 earlier in the year; originally, it was planned to reuse it again for the CRS-19 mission later this year, but the plan was scrapped. For the first time, the twice flown Dragon spacecraft also made a third flight. Also used for the first time was a gray-band painted where the RP-1 kerosene tank is located, to help with thermal conductivity and thus saving fuel during long coasts."
   },
   {
     "Date": "06-08-2019",
@@ -1637,7 +1718,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "AMOS-17 is the most advanced high-throughput satellite to provide satellite communication services to Africa. Following the loss of AMOS-6 in September 2016, Spacecom was granted a free launch in compensation for the lost satellite. Due to the free launch, Spacecom was able to expend the booster with no extra cost that comes with expending a booster, and thus could reach final orbit quicker. This booster became the second Block 5 booster to be expended. For the second time, Ms. Tree managed to catch a fairing half directly into its net."
   },
   {
     "Date": "11-01-2019",
@@ -1657,7 +1739,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Second large batch of Starlink satellites and the first operational mission of the constellation, it launched in a roughly 290 km (180 mi) orbit at an inclination of 53.0 . At 15,600 kg (34,400 lb), it is the heaviest payload so far launched by SpaceX, breaking the record set by the Starlink v0.9 flight earlier that year. This flight marked the first time that a Falcon 9 booster made a fourth flight and landing. This was also the first time that a Falcon 9 re-used fairings (from ArabSat-6A in April 2019). It was planned to recover the fairings with both Ms. Tree and Ms. Chief but the plan was abandoned due to rough seas."
   },
   {
     "Date": "05-12-2019",
@@ -1677,7 +1760,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Second re-supply flight to use a Cargo Dragon for the third time. This flight carried Robotic Tool Stowage (RiTS), a docking station that allows equipment that looks for leaks on the Space Station be stored on the outside. Also on board were upgrades for the Cold Atom Laboratory (CAL). Onboard experiments include the testing of the spread of fire in space, mating barley in microgravity and experiments to test muscle and bone growth in microgravity. Secondary payloads include the Hyperspectral Imager Suite (HISUI), an experiment to image high resolution across all colours of the light spectrum, allowing for imaging of soil, rocks, vegetation, snow, ice and man-made objects. Additionally, there were three CubeSats from NASA's ELaNa 28 mission, including the AztechSat-1 satellite built by students in Mexico."
   },
   {
     "Date": "17-12-2019",
@@ -1685,7 +1769,7 @@
     "Booster Version": "F9 B5  B1056.3",
     "Dragon Version": "Dragon Not Used",
     "Launch Site": "CCAFS SLC-40",
-    "Mission": "JCSAT-18�/�Kacific 1",
+    "Mission": "JCSAT-18 / Kacific 1",
     "Payload Mass (kg)": 6956,
     "Payload Mass (lb)": 15338,
     "Payload Type": "Communication Satellite",
@@ -1697,7 +1781,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Singaporean-Japanese CondoSat that will cover the Asia-Pacific region. Due to the heavy weight of the payload, it was injected into a lower energy sub-synchronous orbit of 20,000 km (12,000 mi); the satellite itself will transfer to full GTO. This was the third Falcon 9 launch for JSAT and the previous two were in 2016. SpaceX successfully landed B1056.3 but both fairing halves missed the recovery boats Ms. Tree and Ms. Chief."
   },
   {
     "Date": "07-01-2020",
@@ -1717,7 +1802,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Third large batch and second operational flight of Starlink constellation. One of the 60 satellites included a test coating to make the satellite less reflective, and thus less likely to interfere with ground-based astronomical observations."
   },
   {
     "Date": "19-01-2020",
@@ -1737,7 +1823,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "No attempt",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "An atmospheric test of the Dragon 2 abort system after Max Q. The capsule fired its SuperDraco engines, reached an apogee of 40 km (25 mi), deployed parachutes after reentry, and splashed down in the ocean 31 km (19 mi) downrange from the launch site. The test was previously slated to be accomplished with the Crew Dragon Demo-1 capsule; but that test article exploded during a ground test of SuperDraco engines on 20 April 2019. The abort test used the capsule originally intended for the first crewed flight. As expected, the booster was destroyed by aerodynamic forces after the capsule aborted. First flight of a Falcon 9 with only one functional stage    the second stage had a mass simulator in place of its engine."
   },
   {
     "Date": "29-01-2020",
@@ -1757,7 +1844,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Third operational and fourth large batch of Starlink satellites, deployed in a circular 290 km (180 mi) orbit. One of the fairing halves was caught, while the other was fished out of the ocean."
   },
   {
     "Date": "17-02-2020",
@@ -1777,7 +1865,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Fourth operational and fifth large batch of Starlink satellites. Used a new flight profile which deployed into a 212 km × 386 km (132 mi × 240 mi) elliptical orbit instead of launching into a circular orbit and firing the second stage engine twice. The first stage booster failed to land on the drone ship due to incorrect wind data. This was the first time a flight proven booster failed to land."
   },
   {
     "Date": "07-03-2020",
@@ -1797,7 +1886,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Last launch of phase 1 of the CRS contract. Carries Bartolomeo, an ESA platform for hosting external payloads onto ISS. Originally scheduled to launch on 2 March 2020, the launch date was pushed back due to a second stage engine failure. SpaceX decided to swap out the second stage instead of replacing the faulty part. It was SpaceX's 50th successful landing of a first stage booster, the third flight of the Dragon C112 and the last launch of the cargo Dragon spacecraft."
   },
   {
     "Date": "18-03-2020",
@@ -1817,7 +1907,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Fifth operational launch of Starlink satellites. It was the first time a first stage booster flew for a fifth time and the second time the fairings were reused (Starlink flight in May 2019). Towards the end of the first stage burn, the booster suffered premature shut down of an engine, the first of a Merlin 1D variant and first since the CRS-1 mission in October 2012. However, the payload still reached the targeted orbit. This was the second Starlink launch booster landing failure in a row, later revealed to be caused by residual cleaning fluid trapped inside a sensor."
   },
   {
     "Date": "22-04-2020",
@@ -1837,7 +1928,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Sixth operational launch of Starlink satellites. The 84th flight of the Falcon 9 rocket, it surpassed Atlas V to become the most-flown operational US rocket. Used fairings launched on AMOS-17 (August 2019)."
   },
   {
     "Date": "30-05-2020",
@@ -1857,7 +1949,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First crewed orbital spaceflight from American soil since Space Shuttle STS-135 in July 2011, carrying NASA astronauts Bob Behnken and Doug Hurley to the International Space Station. The SpaceX live stream was peaked at 4.1 million viewers, while NASA estimated roughly 10 million people watched on various online platforms, and approximately 150,000 people gathered on Florida's space coast despite the risks of the COVID-19 pandemic."
   },
   {
     "Date": "04-06-2020",
@@ -1877,7 +1970,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Seventh operational launch of Starlink satellites, occurred on the 10th anniversary of the first Falcon 9 flight. Included \"VisorSat\" satellite test that uses a sunshade to limit reflectivity. First booster to successfully land five times, and first to land on Just Read The Instructions since it was moved to the East Coast."
   },
   {
     "Date": "13-06-2020",
@@ -1897,7 +1991,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Eighth operational launch of Starlink satellites, included the first rideshare in SpaceX's SmallSat Program, of three SkySat satellites. One payload fairing half launched on JCSat-18 / Kacific 1 mission in December 2019. The other payload fairing half flew on Starlink 2 v1.0 in January 2020. For the first time, SpaceX did not perform a static fire before launch."
   },
   {
     "Date": "30-06-2020",
@@ -1917,7 +2012,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Payload manufacturing contract awarded January 2012, fully assembled in August 2017, and completed thermal vacuum testing in June 2018. Launch contract was awarded initially for US$96.5 million, but later, this was discounted in exchange for allowing to launch configuration enabling booster recovery. The vehicle nicknamed Columbus was transported to Florida in February 2020, but launch was delayed by the customer from April 2020 due to the COVID-19 pandemic. The launch was dedicated to the memory of the recently deceased, late commander of the 21st Space Wing, Colonel Thomas G. Falzarano, and after launch, in October 2020, the nickname was changed to that of the Arctic explorer Matthew Henson. The second stage featured a gray band to allow more heat to be absorbed during the longer coasting period, while both fairings were recovered out of the water without attempting a catch in the net."
   },
   {
     "Date": "20-07-2020",
@@ -1937,7 +2033,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "At 5-6 tonnes, the satellite formerly known as K-Milsat-1 is South Korea's first dedicated military satellite. Contracted by South Korea's Defense Acquisition Program Administration in 2014. 57th successful recovery of a Falcon 9 first stage. For the first time both fairing halves were also successfully caught by fairing catching ships. This launch featured a booster reflight within 51 days, a new record turnaround time for a Falcon booster. It was the same booster that launched the Crew Dragon Demo-2 spacecraft on 30 May 2020. The satellite was delivered to a super-synchronous transfer orbit of 211 km × 45,454 km (131 mi × 28,244 mi), while both fairing halves were caught in the catch nets of the supports ships."
   },
   {
     "Date": "07-08-2020",
@@ -1957,7 +2054,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Ninth operational launch of Starlink satellites. This mission carried 57 Starlink satellites and two BlackSky satellites as rideshare. This first rideshare contracted with Spaceflight Industries was dubbed internally as \"SXRS-1\". After previously testing on a single Starlink, the launch will have all 57 satellites include a \"VisorSat\" to reduce their brightness."
   },
   {
     "Date": "18-08-2020",
@@ -1977,7 +2075,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Tenth operational launch of Starlink satellites. Starlink flight including three SkySat rideshare satellites. First time a booster made a 6th flight. The fairings previously flew on Starlink 3 v1.0. One fairing half was caught by Go Ms. Tree, the other was scooped out of the ocean."
   },
   {
     "Date": "30-08-2020",
@@ -1997,7 +2096,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "The 100th launch in SpaceX's history, first time a commercial launch on a fourth launch of a booster, it deployed Earth-observing satellites built by Argentina's space agency CONAE and two rideshares. SpaceX was contracted in 2009 for an initial launch as early as 2013. Originally planned for launch from Vandenberg but launched from Cape Canaveral, which made it the first flight from there using the southern corridor to a polar orbit since 1969."
   },
   {
     "Date": "03-09-2020",
@@ -2017,7 +2117,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Eleventh operational launch of Starlink satellites, bringing the total to 713 launched Starlink satellites."
   },
   {
     "Date": "06-10-2020",
@@ -2037,7 +2138,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Twelfth operational launch of Starlink satellites, which for the first time used a fairing half on its third launch. Also, the B1058 holds the title for the shortest time a booster reached 3 flights which is 129 days beating B1046 by 77 days."
   },
   {
     "Date": "18-10-202",
@@ -2057,7 +2159,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Thirteenth operational launch of Starlink satellites. Second time a booster was flown six times and first time both fairing halves were flown a third time. Both fairing halves landed on their respective ships but one fairing broke the net on Ms Tree."
   },
   {
     "Date": "24-10-2020",
@@ -2077,7 +2180,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Fourteenth operational launch of Starlink satellites and the 100th successful launch of a Falcon vehicle."
   },
   {
     "Date": "05-11-2020",
@@ -2097,7 +2201,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Manufacturing contract awarded in January 2012, underwent thermal vacuum testing in December 2018, while the launch contract was awarded in March 2018. A launch attempt on 3 October 2020 was aborted two seconds before liftoff due to early start in two engines. Following the abort, two engines from B1062 were sent for further testing. The abort also caused delays to the Crew-1 launch to allow time for data review."
   },
   {
     "Date": "16-11-2020",
@@ -2117,7 +2222,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "First crew rotation of the commercial crew program, following the return in August of the crewed test flight mission Crew Demo 2. Originally designated \"USCV-1\" by NASA. Carried astronauts Victor Glover, Mike Hopkins, Shannon Walker and Soichi Noguchi, for a 6-month stay aboard the ISS, during which the Boeing Starliner OFT-2 flight is expected to dock also. The first flight of the crew program was initially expected to launch in 2017, and finished final certifications in November 2020."
   },
   {
     "Date": "21-11-2020",
@@ -2131,13 +2237,14 @@
     "Payload Type": "Observation Satellite",
     "Payload Manufacturer": "Airbus",
     "Orbit": "LEO",
-    "Customer": "NASA�/�NOAA�/�ESA�/�EUMETSAT",
+    "Customer": "NASA / NOAA / ESA / EUMETSAT",
     "Customer Type": "Government",
     "Customer Country": "Europe",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "Named after the former director of NASA's Earth science program, it is a radar altimeter satellite part of the Ocean Surface Topography constellation located at 1,336 km (830 mi) and 66  inclination, and a follow-up to Jason 3 as a partnership between the United States (NOAA and NASA), Europe (EUMETSAT, ESA, CNES)."
   },
   {
     "Date": "25-11-2020",
@@ -2157,7 +2264,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First time a booster was launched for a seventh time and first time SpaceX completed four launches in a single month."
   },
   {
     "Date": "06-12-2020",
@@ -2177,7 +2285,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First launch of phase 2 of the CRS contract of six launches awarded in January 2016. It was the first launch of the upgraded version Cargo Dragon 2 spacecraft, with increased payload capacity and autonomous docking to the ISS. Payloads included Will Nanoracks Bishop Airlock and CFIG-1 (Cool Flames Investigation with Gases). It's also the 100th successful Falcon 9 launch."
   },
   {
     "Date": "13-12-2020",
@@ -2197,7 +2306,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Launched the largest, high-power broadcasting satellite for SiriusXM's digital audio radio service (DARS). SXM-7 was built by Maxar Technologies; intended to operate in the S-band spectrum, it will replace the SXM-3 satellite. The satellite will deliver the highest power density of any commercial satellite on-orbit, generate more than 20 kW of power, and have a large unfoldable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground. Due to the heavy weight, the payload was injected into a sub-synchronous orbit of 224 km × 19,411 km (139 mi × 12,061 mi) and the satellite itself will transfer to full GTO. It was the first time a commercial primary payload flew on a booster which had been flown more than 4 times before. First dedicated customer launch where the fairings were previously used."
   },
   {
     "Date": "19-12-2020",
@@ -2217,7 +2327,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "The planned launch was not known by the public until FCC filings appeared in late September followed by confirmation from the NRO on 5 October 2020, likely a relatively light payload that allows the return of the booster to the launch site."
   },
   {
     "Date": "08-01-2021",
@@ -2225,19 +2336,20 @@
     "Booster Version": "F9 B5  B1060.4",
     "Dragon Version": "Dragon Not Used",
     "Launch Site": "CCSFS SLC-40",
-    "Mission": "T�rksat 5A",
+    "Mission": "T rksat 5A",
     "Payload Mass (kg)": 3500,
     "Payload Mass (lb)": 7718,
     "Payload Type": "Communication Satellite",
     "Payload Manufacturer": "Airbus",
     "Orbit": "GTO",
-    "Customer": "T�rksat",
+    "Customer": "T rksat",
     "Customer Type": "Business",
     "Customer Country": "Turkey",
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "A 3,500 kg (7,700 lb) satellite intended to be stationed at 31.0  east. This is the most powerful satellite in Türksat's fleet and will provide Ku-band television broadcast services over Turkey, the Middle East, Europe and Africa. The satellite was injected in to a Super-synchronous transfer orbit of 280 km × 55,000 km (170 mi × 34,180 mi) with 17.6  inclination."
   },
   {
     "Date": "20-01-2021",
@@ -2257,7 +2369,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "The first booster to successfully launch and land eight times. Achieved a record turnaround time between two launches of the same booster of only 38 days and brought the total of launched Starlink satellites to over 1000. SpaceX stated that the landing would occur during higher winds than usual; this test to expand the landing envelope was successfully passed by the booster."
   },
   {
     "Date": "24-01-2021",
@@ -2277,7 +2390,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First dedicated smallsat rideshare launch, targeting a 525 km (326 mi) altitude orbit. The launch deployed a record 143 satellites, consisting of 120 CubeSats, 11 microsatellites, 10 Starlinks, and 2 transfer stages. In addition, 2 hosted payloads and 1 non-separating dummy satellite were launched. These include SpaceBEE (x 36), Lemur-2  (x 8), ICEYE (x 3), UVSQ-SAT, ELaNa 35 (PTD-1), and Kepler nanosats (x 8). D-Orbit ION Satellite Carrier and 10 Starlink satellites placed in a polar orbit and 2 of 15 payloads remained attached to SHERPA-FX1. Exolaunch deployed several small satellites and cubesats via their own deployment mechanisms. First flight of a Falcon 9 with a SHERPA-FX transfer stage called SHERPA-FX1."
   },
   {
     "Date": "04-02-2021",
@@ -2297,7 +2411,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "This marked the fastest turnaround to date, at 27 days, and the first time a Falcon 9 flies twice within a month."
   },
   {
     "Date": "16-02-2021",
@@ -2317,7 +2432,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Failure (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "A hole in a heat-shielding engine cover, which likely developed through fatigue, allowed recirculating hot exhaust gases to damage one of the Merlin 1D first-stage engines, causing it to shut down early during ascent. Engine-out capability of the Falcon 9 allowed the mission to continue and successfully deploy the 60 Starlink satellites to orbit. The issue caused the booster to fail its landing attempt and miss the droneship Of Course I Still Love You (OCISLY) after its entry burn, breaking the longest streak of 24 landing successes. During this mission, GO Ms. Tree and GO Ms. Chief were used for the last time to recover the fairings. After this mission, both ships were retired because SpaceX no longer plans to catch the fairings."
   },
   {
     "Date": "04-03-2021",
@@ -2337,7 +2453,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Launch had previously been postponed multiple times, causing the payload Starlink L17 to launch after the L18 and L19 missions. Featured for the first time, a fairing which was flying on its fourth flight. The second-stage deorbit burn failed, causing an uncontrolled reentry on 26 March 2021 over the west coast of the United States."
   },
   {
     "Date": "11-03-2021",
@@ -2357,7 +2474,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Twentieth operational launch of Starlink satellites, bringing the total to 1,265 (including prototypes) launched Starlink satellites."
   },
   {
     "Date": "14-03-2021",
@@ -2377,7 +2495,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First time a first-stage booster flew and landed for the ninth time. This flight also marked the fastest turnaround time for a fairing half, at 49 days. Both fairing halves previously flew on the Transporter-1 mission."
   },
   {
     "Date": "24-03-2021",
@@ -2397,7 +2516,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Fairing \"wet recovery\" achieved by contracted recovery vessel Shelia Bordelon for the first time. Both fairing halves were retrieved from the water."
   },
   {
     "Date": "07-04-2021",
@@ -2417,7 +2537,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "23rd operational launch of Starlink satellites, bringing the total to 1,385 launched Starlink satellites (including prototype). This launch featured the second fastest booster turnaround time at 27 days and 8 hours (after Starlink 18 with B1060.5, which was 4 hours faster)."
   },
   {
     "Date": "23-04-2021",
@@ -2437,7 +2558,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Second operational flight of Crew Dragon for Commercial Crew Program. Transported NASA astronauts Shane Kimbrough and Megan McArthur, JAXA Astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet to the ISS. The four astronauts will spend 6 months aboard the ISS. Beginning with the Crew-2 mission, NASA has modified the contract to allow NASA astronauts to use flight-proven Dragon capsules and booster. Thus SpaceX reflew the Dragon used on Demo-2 and used Booster B1061-2 which had been used to launch Crew-1 in November 2020."
   },
   {
     "Date": "29-04-2021",
@@ -2457,7 +2579,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "24th operational launch of Starlink satellites, bringing the total to 1,434 Starlink satellites still in orbit. This launch also paid tribute to Apollo 11 crew Michael Collins, who passed away hours before the launch."
   },
   {
     "Date": "04-05-2021",
@@ -2477,7 +2600,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "25th operational launch of Starlink satellites, bringing the total to 1,494 Starlink satellites still in orbit, second time a booster flew for the ninth time."
   },
   {
     "Date": "09-05-2021",
@@ -2497,7 +2621,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Booster flew and landed for a record 10th time, with reused fairings, bringing the total number of operational Starlink satellites in the first shell to approximately 1516 out of a planned 1584."
   },
   {
     "Date": "15-05-2021",
@@ -2517,7 +2642,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Rideshare launch with a targeted orbit at 569x582, significantly higher than typical Starlink launches, to allow for needs of the rideshare payloads. Fairing \"wet recovery\" done by contracted recovery vessel Shelia Bordelon for the last time."
   },
   {
     "Date": "26-05-2021",
@@ -2537,7 +2663,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Will likely complete the first shell of the Starlink network located at 550 km altitude and containing 1584 satellites. It was 40th launch a fairing was reused, with one half being used for the 5th time (first fairing to do so) and the other for a 3rd time. This launch marks SpaceX's 100th successful launch in a row without in-flight failure since December 2015."
   },
   {
     "Date": "03-06-2021",
@@ -2557,7 +2684,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Second of a minimum of six new cargo missions under the CRS-2 contract, which NASA awarded SpaceX in 2015. Mission was flown with an uncrewed Dragon 2 capsule, which carried solar panels, catalytic reactor for the station  s life support system, an emergency air supply system, Kurs remote control unit, and a Potable Water Dispense (PWD) filter. Also carried were the RamSat cubesat as payload for ELaNa 36, the SOAR cubesat for the University of Manchester and the first Mauritian satellite MIR-SAT1 to be launched from the station later. This was the last mission the Of Course I Still Love You droneship supported on the east coast, since SpaceX plans to launch Starlink satellites from the West Coast starting in July, which will require a droneship landing. OCISLY will be replaced by the new A Shortfall Of Gravitas droneship later this summer."
   },
   {
     "Date": "06-06-2021",
@@ -2577,7 +2705,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "A large, high-power broadcasting satellite for SiriusXM's digital audio radio service (DARS) contracted together with SXM-7 to replace the aging XM-4 satellite and allow broadcast to radios without the need for large dish-type antennas on the ground."
   },
   {
     "Date": "17-06-2021",
@@ -2597,7 +2726,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "Manufacturing contract awarded February 2013. In March 2018, the Air Force announced it had awarded the launch contract for three GPS satellites to SpaceX. This is the first reused booster launch for a 'national security' mission. Fairing \"wet recovery\" to be achieved by contracted recovery vessel Hos Briarwood for the first time. Both fairing halves were retrieved from water."
   },
   {
     "Date": "30-06-2021",
@@ -2617,7 +2747,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (ground pad)",
     "Drone Ship": "No Ship Used",
-    "Drone Ship Type": "No Ship Used"
+    "Drone Ship Type": "No Ship Used",
+    "Notes": "A total of 88 payloads including Starlink satellites (3x), Polar Vigilance (4x), Exolaunch YAM-2 & 3, Satellogic, Capella-5 HawkEye Cluster 3 (multiple sats), Spaceflight Industries (multiple sats including on two space tugs Sherpa-FX2 Sherpa-LTE1)."
   },
   {
     "Date": "29-08-2021",
@@ -2637,7 +2768,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "A Shortfall Of Gravitas",
-    "Drone Ship Type": "Marmac 302"
+    "Drone Ship Type": "Marmac 302",
+    "Notes": "Third of six new cargo missions NASA awarded in 2015 to SpaceX under the CRS-2 contract to be flown after the initial 20 missions of phase 1 were completed in 2020. Includes FBCE, SoFIE. First time a booster landed on SpaceX's fourth droneship, A Shortfall Of Gravitas (ASOG), marking the first use when SpaceX has three droneships in operation."
   },
   {
     "Date": "14-09-2021",
@@ -2645,7 +2777,7 @@
     "Booster Version": "F9 B5  B1049.10",
     "Dragon Version": "Dragon Not Used",
     "Launch Site": "VAFB SLC-4E",
-    "Mission": "Starlink�Group 2-1 v1.5",
+    "Mission": "Starlink Group 2-1 v1.5",
     "Payload Mass (kg)": 13260,
     "Payload Mass (lb)": 29238,
     "Payload Type": "Starlink",
@@ -2657,7 +2789,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First launch of Starlink satellites from Vandenberg Space Force Base, and first West coast launch in 10 months. The 70-degree inclination launch is the first Starlink launch into a high-inclination, non-SSO orbit. The satellites were the upgraded 1.5 version that featured \"laser inter-satellite links, which are needed for high latitudes & mid ocean coverage\". It was the second booster to make a tenth flight and landing."
   },
   {
     "Date": "16-09-2021",
@@ -2677,7 +2810,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "SpaceX signed in February 2021, its first all-civilian flight for a crewed spacecraft with Jared Isaacman (Leadership), founder and CEO of Shift4 Payments, who commands and pilots the mission, and who donated the three other seats in the Crew Dragon vehicle's launch to LEO. The first of these three seats (Generosity) was won by Christopher Sembroski in a lottery, who donated to St. Jude Children's Research Hospital, the second seat (Hope) was awarded to Hayley Arceneaux, an ambassador associated with that hospital, and the third seat (Prosperity) was awarded to Sian Proctor, the winner of a contest between entrepreneurs who use Shift4Shop. The seats were awarded on 30 March 2021. The mission reached a circular orbit of about 585 km and lasted about three days. The docking adapter of Crew Dragon Resilience was replaced by a dome window."
   },
   {
     "Date": "11-11-2021",
@@ -2697,7 +2831,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "A Shortfall Of Gravitas",
-    "Drone Ship Type": "Marmac 302"
+    "Drone Ship Type": "Marmac 302",
+    "Notes": "SpaceX's third operational Crew Dragon flight carried NASA astronauts Thomas Marshburn, Kayla Barron and Raja Chari as well as German ESA astronaut Matthias Maurer. It also carried up to 100 kg (220 lb) of cargo to the ISS."
   },
   {
     "Date": "13-11-2021",
@@ -2717,7 +2852,8 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Just Read The Instructions",
-    "Drone Ship Type": "Marmac 303"
+    "Drone Ship Type": "Marmac 303",
+    "Notes": "First east-coast Starlink launch after the v1.0 L28 launch which completed the first shell of the Starlink network located at 550 km altitude. Fairing \"wet recovery\" to be achieved by SpaceX multipurpose ship, Bob for the first time. Both fairing halves were retrieved from water."
   },
   {
     "Date": "24-11-2021",
@@ -2729,7 +2865,7 @@
     "Payload Mass (kg)": 610,
     "Payload Mass (lb)": 1340,
     "Payload Type": "Defense",
-    "Payload Manufacturer": "Applied Science Laboratory",
+    "Payload Manufacturer": "Applied Physics Laboratory",
     "Orbit": "Heliocentric",
     "Customer": "NASA",
     "Customer Type": "Government",
@@ -2737,6 +2873,7 @@
     "Mission Outcome": "Success",
     "Landing Outcome": "Success (drone ship)",
     "Drone Ship": "Of Course I Still Love You",
-    "Drone Ship Type": "Marmac 304"
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "Dart mission will measure the kinetic effects of crashing an impactor into the surface of the moon of 65803 Didymos asteroid. It will be the first mission to demonstrate asteroid redirect capability. The launch contract was awarded to SpaceX for $69 million."
   }
 ]
