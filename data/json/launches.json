@@ -2875,5 +2875,26 @@
     "Drone Ship": "Of Course I Still Love You",
     "Drone Ship Type": "Marmac 304",
     "Notes": "Dart mission will measure the kinetic effects of crashing an impactor into the surface of the moon of 65803 Didymos asteroid. It will be the first mission to demonstrate asteroid redirect capability. The launch contract was awarded to SpaceX for $69 million."
+  },
+  {
+    "Date": "02-12-2021",
+    "Time (UTC)": "23:12:00",
+    "Booster Version": "F9 B5 B1060.9",
+    "Dragon Version": "Dragon Not Used",
+    "Launch Site": "CCSFS SLC-40",
+    "Mission": "Starlink Group 4-3 v1.5",
+    "Payload Mass (kg)": 14500,
+    "Payload Mass (lb)": 32000,
+    "Payload Type": "Starlink",
+    "Payload Manufacturer": "SpaceX",
+    "Orbit": "LEO",
+    "Customer": "SpaceX",
+    "Customer Type": "Business",
+    "Customer Country": "United States of America",
+    "Mission Outcome": "Success",
+    "Landing Outcome": "Success (drone ship)",
+    "Drone Ship": "A Shortfall Of Gravitas",
+    "Drone Ship Type": "Marmac 302",
+    "Notes": "This mission carried 48 Starlink satellites and two BlackSky Gen-2 satellites (numbered 12 and 13) as rideshare payloads. The BlackSky satellites were released prior to the Starlink deployment, to a 435x425 km orbit at 53.2° inclination."
   }
 ]

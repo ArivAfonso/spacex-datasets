@@ -40,7 +40,7 @@
     "year_built": "Unknown",
     "home_port": "Port Canaveral",
     "weight": null,
-    "landings": 2
+    "landings": 3
   },
   {
     "name": "Betty R Gambarella",
@@ -205,7 +205,7 @@
     "year_built": 2015,
     "home_port": "Port Canaveral",
     "weight": null,
-    "landings" : 55
+    "landings" : 56
   },
   {
     "name": "Pacific Freeedom",

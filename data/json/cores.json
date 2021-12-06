@@ -651,13 +651,13 @@
   },
   {
     "serial": "B1060",
-    "status": "unknown",
-    "reuse_count": 7,
+    "status": "active",
+    "reuse_count": 8,
     "block": 5,
     "rtls_attempts": 1,
     "rtls_landings": 1,
-    "asds_attempts": 7,
-    "asds_landings": 7
+    "asds_attempts": 8,
+    "asds_landings": 8
   },
   {
     "serial": "B1061",
