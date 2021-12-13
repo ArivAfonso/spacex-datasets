@@ -662,12 +662,12 @@
   {
     "serial": "B1061",
     "status": "active",
-    "reuse_count": 3,
+    "reuse_count": 4,
     "block": 5,
     "rtls_attempts": 0,
     "rtls_landings": 0,
-    "asds_attempts": 4,
-    "asds_landings": 4
+    "asds_attempts": 5,
+    "asds_landings": 5
   },
   {
     "serial": "B1062",
