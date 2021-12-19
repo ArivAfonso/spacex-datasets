@@ -2917,5 +2917,26 @@
     "Drone Ship": "Just Read The Instructions",
     "Drone Ship Type": "Marmac 303",
     "Notes": "SMEX 14 mission with three identical NASA telescopes on a single spacecraft, designed to measure X-rays. The launch contract was awarded to SpaceX for US$50.3 million, and is the smallest dedicated payload ever launched by Falcon 9 launch vehicle. However, the required exact equatorial orbit required an orbital plane change that meant an approximately 30% of Falcon 9's maximum theoretical performance for such an orbital profile (1.5-2 tons)."
+  },
+  {
+    "Date": "19-12-2021",
+    "Time (UTC)": "12:41:00",
+    "Booster Version": "F9 B5 B1051.11",
+    "Dragon Version": "Dragon Not Used",
+    "Launch Site": "VSFB SLC-4E",
+    "Mission": "Starlink Group 4-4 v1.5",
+    "Payload Mass (kg)": 15600,
+    "Payload Mass (lb)": 34398,
+    "Payload Type": "Starlink",
+    "Payload Manufacturer": "SpaceX",
+    "Orbit": "LEO",
+    "Customer": "SpaceX",
+    "Customer Type": "Business",
+    "Customer Country": "United States of America",
+    "Mission Outcome": "Success",
+    "Landing Outcome": "Success (drone ship)",
+    "Drone Ship": "Of Course I Still Love You",
+    "Drone Ship Type": "Marmac 304",
+    "Notes": "First West coast and third overall 53.2-degree inclination Starlink launch. First time a Falcon 9 first stage booster flew for an eleventh time."
   }
 ]

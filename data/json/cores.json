@@ -571,13 +571,13 @@
   },
   {
     "serial": "B1051",
-    "status": "unknown",
-    "reuse_count": 9,
+    "status": "active",
+    "reuse_count": 10,
     "block": 5,
     "rtls_attempts": 1,
     "rtls_landings": 1,
-    "asds_attempts": 9,
-    "asds_landings": 9
+    "asds_attempts": 10,
+    "asds_landings": 10
   },
   {
     "serial": "B1052",
